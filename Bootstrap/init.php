@@ -10,6 +10,7 @@ include_once DIR . "Functions/Owghat/jdf.php";
 include_once DIR . "Helpers/RemaningAzanMaqreb.php";
 include_once DIR . "Helpers/RemaningAzanSobh.php";
 include_once DIR . "Functions/Database/City.php";
+include_once DIR . "Functions/Database/Province.php";
 use Medoo\Medoo;
 $db = new Medoo([
 	// [required]
@@ -28,5 +29,6 @@ $db = new Medoo([
     'error' => PDO::ERRMODE_EXCEPTION,
 ]);
 $City = new City($db);
+$Province = new Province($db);
 $Tel = new Telegram(TOKEN);
 ?>

@@ -8,11 +8,12 @@ if ($type == "private" && $text == "/start") {
 }
 elseif (preg_match('/اوقات\s+(.+)$/u', $text, $match)) {
     $city = $match[1];
-    $selectCity = $City->getlgAndlat($city);
-    if (sizeof($selectCity) == 0) {
+    $selectCity = $City->getInfoCity($city);
+    if (!$selectCity) {
         return;
     }
-    [$lg, $lat] = [$selectCity[0]['lg'], $selectCity[0]['lat']];
+    $selectProvince = $Province->getName($selectCity['province']);
+    [$lg, $lat, $province] = [$selectCity['longitude'], $selectCity['latitude'], $selectProvince['name']];
 
     [$l, $d, $m, $F, $Y, $h, $i, $s] = [jdate('l'), jdate('d', time(), '', 'Asia/Tehran', 'en'), jdate('m', time(), '', 'Asia/Tehran', 'en'), jdate('F'), jdate('Y', time(), '', 'Asia/Tehran', 'en'), jdate('h', time(), '', 'Asia/Tehran', 'en'), jdate('i', time(), '', 'Asia/Tehran', 'en'), jdate('s', time(), '', 'Asia/Tehran', 'en')];
 
@@ -33,5 +34,5 @@ elseif (preg_match('/اوقات\s+(.+)$/u', $text, $match)) {
     $RemaningAzanMaqreb = RemaningAzanMaqreb($TimeAzanMaqreb, $lg, $lat);
     list($hoursAM, $minutesAM, $secondsAM) = [$RemaningAzanMaqreb['hours'], $RemaningAzanMaqreb['minutes'], $RemaningAzanMaqreb['seconds']];
 
-    $Tel->Send($chat_id, "📆 $l $d $F $Y - ساعت $h:$i:$s\n🌏 شهر : $city\n┤ اذان صبح : {$AzanSobh}\n┤ اذان ظهر : {$AzanZohr}\n┘ اذان مغرب : {$AzanMaqreb}\n\n⏳ مانده تا سحر : {$hoursAS} ساعت {$minutesAS} دقیقه {$secondsAS} ثانیه\n⌛️ مانده تا افطار : {$hoursAM} ساعت {$minutesAM} دقیقه {$secondsAM} ثانیه");
+    $Tel->Send($chat_id, "📆 $l $d $F $Y - ساعت $h:$i:$s\n🌏 شهر : $city\n┘ استان : $province\n\n🕰 اوقات شرعی\n┤ اذان صبح : {$AzanSobh}\n┤ اذان ظهر : {$AzanZohr}\n┘ اذان مغرب : {$AzanMaqreb}\n\n⏳ مانده تا سحر : {$hoursAS} ساعت {$minutesAS} دقیقه {$secondsAS} ثانیه\n⌛️ مانده تا افطار : {$hoursAM} ساعت {$minutesAM} دقیقه {$secondsAM} ثانیه");
 }
