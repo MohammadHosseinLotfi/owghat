@@ -28,26 +28,31 @@ elseif (isset($text) && preg_match('/اوقات\s+(.+)$/u', $text, $match)) {
     $selectProvince = $Province->getName($selectCity['province']);
     [$lg, $lat, $province] = [$selectCity['longitude'], $selectCity['latitude'], $selectProvince['name']];
 
-    [$l, $d, $m, $F, $Y, $h, $i, $s] = [jdate('l'), jdate('d'), jdate('m'), jdate('F'), jdate('Y'), jdate('h'), jdate('i'), jdate('s')];
+    [$l, $d, $m, $F, $Y, $now] = [jdate('l'), jdate('d'), jdate('m'), jdate('F'), jdate('Y'), jdate('h:i:s', time())];
 
-    $owghat = owghat($m, $d, $lg, $lat, 1, 0, 0);
+    $owghat = owghat($m, $d, $lg, $lat, 0, 0, 0);
     [$AzanSobh, $AzanZohr, $AzanMaqreb] = [$owghat['s'], $owghat['z'], $owghat['m']];
 
-    list($TAS_h, $TSA_m, $TSA_s) = explode(':', $AzanSobh);
-    $TimeAzanSobh = jmktime($TAS_h , $TSA_m , $TSA_s , $m , $d , $Y); // timestamp
+    list($TAS_h, $TSA_m) = explode(':', $AzanSobh);
+    // list($TAS_h, $TSA_m, $TSA_s) = explode(':', $AzanSobh);
+    $TimeAzanSobh = jmktime($TAS_h , $TSA_m , 00 , $m , $d , $Y); // timestamp
 
-    list($TAM_h, $TSM_m, $TSM_s) = explode(':', $AzanMaqreb);
-    $TimeAzanMaqreb = jmktime($TAM_h, $TSM_m, $TSM_s , $m , $d , $Y); // timestamp
+    list($TAM_h, $TSM_m) = explode(':', $AzanMaqreb);
+    // list($TAM_h, $TSM_m, $TSM_s) = explode(':', $AzanMaqreb);
+    $TimeAzanMaqreb = jmktime($TAM_h, $TSM_m, 00 , $m , $d , $Y); // timestamp
 
     // Azan Sobh
     $RemaningAzanSobh = RemaningAzanSobh($TimeAzanSobh, $lg, $lat);
-    list($hoursAS, $minutesAS, $secondsAS) = [$RemaningAzanSobh['hours'], $RemaningAzanSobh['minutes'], $RemaningAzanSobh['seconds']];
+    // list($hoursAS, $minutesAS, $secondsAS) = [$RemaningAzanSobh['hours'], $RemaningAzanSobh['minutes'], $RemaningAzanSobh['seconds']];
+    list($hoursAS, $minutesAS, $secondsAS) = [$RemaningAzanSobh['hours'], $RemaningAzanSobh['minutes']];
 
     // Azan Maqreb
     $RemaningAzanMaqreb = RemaningAzanMaqreb($TimeAzanMaqreb, $lg, $lat);
-    list($hoursAM, $minutesAM, $secondsAM) = [$RemaningAzanMaqreb['hours'], $RemaningAzanMaqreb['minutes'], $RemaningAzanMaqreb['seconds']];
+    list($hoursAM, $minutesAM, $secondsAM) = [$RemaningAzanMaqreb['hours'], $RemaningAzanMaqreb['minutes']];
+    // list($hoursAM, $minutesAM, $secondsAM) = [$RemaningAzanMaqreb['hours'], $RemaningAzanMaqreb['minutes'], $RemaningAzanMaqreb['seconds']];
 
-    $Tel->Send($chat_id, "📆 $l $d $F $Y - ساعت $h:$i:$s\n🌏 شهر : $cityName\n┘ استان : $province\n\n🕰 اوقات شرعی\n┤ اذان صبح : {$AzanSobh}\n┤ اذان ظهر : {$AzanZohr}\n┘ اذان مغرب : {$AzanMaqreb}\n\n⏳ مانده تا سحر : {$hoursAS} ساعت {$minutesAS} دقیقه {$secondsAS} ثانیه\n⌛️ مانده تا افطار : {$hoursAM} ساعت {$minutesAM} دقیقه {$secondsAM} ثانیه");
+$Tel->Send($chat_id, "📆 $l $d $F $Y - ساعت $now\n🌏 شهر : $cityName\n┘ استان : $province\n\n🕰 اوقات شرعی\n┤ اذان صبح : {$AzanSobh}\n┤ اذان ظهر : {$AzanZohr}\n┘ اذان مغرب : {$AzanMaqreb}\n\n⏳ مانده تا سحر : {$hoursAS} ساعت {$minutesAS} دقیقه \n⌛️ مانده تا افطار : {$hoursAM} ساعت {$minutesAM} دقیقه");
+
 }
 
 elseif (isset($callback_query) && strpos($callback_query_data, "accept") !== false) {

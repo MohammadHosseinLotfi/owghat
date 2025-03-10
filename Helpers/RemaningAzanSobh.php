@@ -7,8 +7,9 @@ function RemaningAzanSobh($TimeAzanSobh, $lg, $lat)
         [$d, $m, $Y] = [(int)jdate('d', $TimestampTomorrow), (int)jdate('m', $TimestampTomorrow), (int)jdate('Y', $TimestampTomorrow)];
         $owghat = owghat($m, $d, $lg, $lat);
 
-        list($h, $i, $s) = explode(':', $owghat['s']);
-        $Tomorrow_AzanSobh = jmktime((int)$h, (int)$i, (int)$s, $m, $d, $Y);
+        // list($h, $i, $s) = explode(':', $owghat['s']);
+        list($h, $i) = explode(':', $owghat['s']);
+        $Tomorrow_AzanSobh = jmktime((int)$h, (int)$i, (int)00, $m, $d, $Y);
 
         $remaining = $Tomorrow_AzanSobh - time();
     } else {
@@ -17,7 +18,8 @@ function RemaningAzanSobh($TimeAzanSobh, $lg, $lat)
 
     $hours = floor($remaining / 3600);
     $minutes = floor(($remaining % 3600) / 60);
-    $seconds = $remaining % 60;
+    // $seconds = $remaining % 60;
 
-    return ['hours' => $hours, 'minutes' => $minutes, 'seconds' => $seconds];
+    // return ['hours' => $hours, 'minutes' => $minutes, 'seconds' => $seconds];
+    return ['hours' => $hours, 'minutes' => $minutes];
 }
