@@ -2,7 +2,7 @@
 
 /** owghat(month,day,longitude,latitude,Show_seconds,Daylight_Saving_Time_On,farsi_numbers) // Version:1.2 _ http://123.scr.ir */
 
-function owghat($m, $d, $lg, $lat, $seconds = 1, $dslst = 0, $farsi = 1)
+function owghat($m, $d, $lg, $lat, $seconds = 0, $dslst = 0, $farsi = 0)
 {
   $a_2 = array(107.695, 90.833, 0, 90.833, 94.5, 0);
   $doy_1 = (($m < 7) ? ($m - 1) : 6) + (($m - 1) * 30) + $d;
