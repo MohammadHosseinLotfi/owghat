@@ -23,8 +23,14 @@ class Telegram
         return $result;
     }
 
-    public function Send($chat_id, $text)
+    public function Send($chat_id, $text, $reply_markup = [], $typeButton = "keyboard")
     {
-        $this->API("sendMessage", ["chat_id" => $chat_id, "text" => $text, "parse_mode" => "HTML"]);
+        $reply_markup = (count($reply_markup) > 0) ? ($typeButton == "keyboard") ? json_encode(['keyboard' => $reply_markup, 'resize_keyboard' => true]) : json_encode(['inline_keyboard' => $reply_markup]) : "" ;
+
+        $this->API("sendMessage", ["chat_id" => $chat_id, "text" => $text, "parse_mode" => "HTML", "reply_markup" => $reply_markup]);
+    }
+    public function EditMessage($chat_id, $message_id, $text, $reply_markup = [])
+    {
+        $this->API("editMessageText", ["chat_id" => $chat_id, 'message_id' => $message_id, "text" => $text, "parse_mode" => "HTML"]);
     }
 }

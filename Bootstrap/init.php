@@ -1,6 +1,7 @@
 <?php
 define('TOKEN', " "); // token bot
 define('DIR', __DIR__ . "/../");
+define('ADMIN_ID', 5022592341);
 
 include_once DIR . "Core/Update.php";
 include_once DIR . "Core/Api.php";
@@ -9,6 +10,7 @@ include_once DIR . "Functions/Owghat/Owghat.php";
 include_once DIR . "Functions/Owghat/jdf.php";
 include_once DIR . "Helpers/RemaningAzanMaqreb.php";
 include_once DIR . "Helpers/RemaningAzanSobh.php";
+include_once DIR . "Helpers/GetCity.php";
 include_once DIR . "Functions/Database/City.php";
 include_once DIR . "Functions/Database/Province.php";
 use Medoo\Medoo;

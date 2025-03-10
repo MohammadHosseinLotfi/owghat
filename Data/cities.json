@@ -1,0 +1,7094 @@
+{
+    "آذربایجان شرقی": [
+        {
+            "name": "تبریز",
+            "latitude": 38.0800,
+            "longitude": 46.2919
+        },
+        {
+            "name": "هادیشهر",
+            "latitude": 38.8344,
+            "longitude": 45.6622
+        },
+        {
+            "name": "صوفیان",
+            "latitude": 38.2647,
+            "longitude": 45.9783
+        },
+        {
+            "name": "بخشایش",
+            "latitude": 38.1311,
+            "longitude": 46.8731
+        },
+        {
+            "name": "مبارک شهر",
+            "latitude": 38.3822,
+            "longitude": 46.2472
+        },
+        {
+            "name": "خداجو",
+            "latitude": 37.6675,
+            "longitude": 46.3356
+        },
+        {
+            "name": "داریان",
+            "latitude": 38.0631,
+            "longitude": 46.3222
+        },
+        {
+            "name": "دیزج حسین بیگ",
+            "latitude": 38.2606,
+            "longitude": 45.7497
+        },
+        {
+            "name": "کردکندی",
+            "latitude": 37.9183,
+            "longitude": 47.0714
+        },
+        {
+            "name": "آچاچی",
+            "latitude": 37.6211,
+            "longitude": 47.6047
+        },
+        {
+            "name": "خوشه مهر",
+            "latitude": 37.3831,
+            "longitude": 47.4894
+        },
+        {
+            "name": "مراغه",
+            "latitude": 37.3892,
+            "longitude": 46.2392
+        },
+        {
+            "name": "مرند",
+            "latitude": 38.4299,
+            "longitude": 45.7749
+        },
+        {
+            "name": "میانه",
+            "latitude": 37.4219,
+            "longitude": 47.7150
+        },
+        {
+            "name": "اهر",
+            "latitude": 38.4774,
+            "longitude": 47.0699
+        },
+        {
+            "name": "سراب",
+            "latitude": 37.9408,
+            "longitude": 47.5367
+        },
+        {
+            "name": "شبستر",
+            "latitude": 38.1792,
+            "longitude": 45.7023
+        },
+        {
+            "name": "بناب",
+            "latitude": 37.3404,
+            "longitude": 46.0561
+        },
+        {
+            "name": "جلفا",
+            "latitude": 38.9403,
+            "longitude": 45.6308
+        },
+        {
+            "name": "هریس",
+            "latitude": 38.2471,
+            "longitude": 47.1166
+        },
+        {
+            "name": "هشترود",
+            "latitude": 37.4779,
+            "longitude": 47.0508
+        },
+        {
+            "name": "بستان آباد",
+            "latitude": 37.8500,
+            "longitude": 46.8333
+        },
+        {
+            "name": "کلیبر",
+            "latitude": 38.8694,
+            "longitude": 47.0355
+        },
+        {
+            "name": "اسکو",
+            "latitude": 37.9159,
+            "longitude": 46.1236
+        },
+        {
+            "name": "خاروانا",
+            "latitude": 38.6833,
+            "longitude": 46.1667
+        },
+        {
+            "name": "ورزقان",
+            "latitude": 38.5097,
+            "longitude": 46.6543
+        },
+        {
+            "name": "خداآفرین",
+            "latitude": 39.0667,
+            "longitude": 46.9500
+        },
+        {
+            "name": "چاراویماق",
+            "latitude": 37.1333,
+            "longitude": 47.3167
+        },
+        {
+            "name": "هوراند",
+            "latitude": 38.8833,
+            "longitude": 47.3667
+        },
+        {
+            "name": "آذرشهر",
+            "latitude": 37.7589,
+            "longitude": 45.9783
+        },
+        {
+            "name": "عجب شیر",
+            "latitude": 37.4776,
+            "longitude": 45.8942
+        },
+        {
+            "name": "ملکان",
+            "latitude": 37.1456,
+            "longitude": 46.1036
+        },
+        {
+            "name": "سهند",
+            "latitude": 37.9478,
+            "longitude": 46.1189
+        },
+        {
+            "name": "خسروشاه",
+            "latitude": 38.0167,
+            "longitude": 46.0500
+        },
+        {
+            "name": "سردرود",
+            "latitude": 38.0299,
+            "longitude": 46.3667
+        },
+        {
+            "name": "ایلخچی",
+            "latitude": 37.9333,
+            "longitude": 45.9667
+        },
+        {
+            "name": "گوگان",
+            "latitude": 37.7833,
+            "longitude": 45.8833
+        },
+        {
+            "name": "ممقان",
+            "latitude": 37.8500,
+            "longitude": 45.9667
+        },
+        {
+            "name": "ترکمانچای",
+            "latitude": 37.5667,
+            "longitude": 47.4000
+        },
+        {
+            "name": "ترک",
+            "latitude": 37.6000,
+            "longitude": 47.7833
+        },
+        {
+            "name": "خامنه",
+            "latitude": 38.1933,
+            "longitude": 45.6333
+        },
+        {
+            "name": "سیس",
+            "latitude": 38.2000,
+            "longitude": 45.8167
+        },
+        {
+            "name": "وایقان",
+            "latitude": 38.1333,
+            "longitude": 45.7167
+        },
+        {
+            "name": "شرفخانه",
+            "latitude": 38.1833,
+            "longitude": 45.4833
+        },
+        {
+            "name": "تسوج",
+            "latitude": 38.3167,
+            "longitude": 45.3667
+        },
+        {
+            "name": "دوزدوزان",
+            "latitude": 37.9333,
+            "longitude": 47.1167
+        },
+        {
+            "name": "شربیان",
+            "latitude": 37.8833,
+            "longitude": 47.3167
+        },
+        {
+            "name": "مهربان",
+            "latitude": 38.0833,
+            "longitude": 47.1333
+        },
+        {
+            "name": "خواجه",
+            "latitude": 38.1500,
+            "longitude": 46.5833
+        },
+        {
+            "name": "زرنق",
+            "latitude": 38.0833,
+            "longitude": 47.0833
+        },
+        {
+            "name": "قره آغاج",
+            "latitude": 37.1333,
+            "longitude": 47.2167
+        },
+        {
+            "name": "خمارلو",
+            "latitude": 39.0667,
+            "longitude": 47.0333
+        },
+        {
+            "name": "لاریجان",
+            "latitude": 38.9500,
+            "longitude": 46.8167
+        },
+        {
+            "name": "عاشقلو",
+            "latitude": 39.0167,
+            "longitude": 47.0667
+        },
+        {
+            "name": "کشکسرای",
+            "latitude": 38.4500,
+            "longitude": 45.6167
+        },
+        {
+            "name": "یکان کهریز",
+            "latitude": 38.4667,
+            "longitude": 45.6667
+        },
+        {
+            "name": "سیه رود",
+            "latitude": 38.8667,
+            "longitude": 46.0333
+        },
+        {
+            "name": "آبش احمد",
+            "latitude": 39.0333,
+            "longitude": 47.3167
+        },
+        {
+            "name": "تیکمه داش",
+            "latitude": 37.7333,
+            "longitude": 46.9333
+        },
+        {
+            "name": "سعیدآباد",
+            "latitude": 38.1167,
+            "longitude": 45.5833
+        },
+        {
+            "name": "شندآباد",
+            "latitude": 38.1333,
+            "longitude": 45.6667
+        },
+        {
+            "name": "کوزه کنان",
+            "latitude": 38.1833,
+            "longitude": 45.5667
+        },
+        {
+            "name": "باسمنج",
+            "latitude": 38.0000,
+            "longitude": 46.4667
+        },
+        {
+            "name": "لیقوان",
+            "latitude": 37.8333,
+            "longitude": 46.4167
+        },
+        {
+            "name": "تیمورلو",
+            "latitude": 37.8167,
+            "longitude": 45.9667
+        },
+        {
+            "name": "خرمدره",
+            "latitude": 38.2167,
+            "longitude": 46.6167
+        },
+        {
+            "name": "بناب مرند",
+            "latitude": 38.4667,
+            "longitude": 45.8667
+        },
+        {
+            "name": "زنوز",
+            "latitude": 38.5833,
+            "longitude": 45.6667
+        },
+        {
+            "name": "کلوانق",
+            "latitude": 38.3167,
+            "longitude": 47.0833
+        },
+        {
+            "name": "یامچی",
+            "latitude": 38.5333,
+            "longitude": 45.6333
+        },
+        {
+            "name": "آقکند",
+            "latitude": 37.3167,
+            "longitude": 47.7667
+        },
+        {
+            "name": "جوان قلعه",
+            "latitude": 39.0833,
+            "longitude": 47.1167
+        },
+        {
+            "name": "دریلو",
+            "latitude": 38.9167,
+            "longitude": 46.9167
+        },
+        {
+            "name": "وردی",
+            "latitude": 38.8833,
+            "longitude": 46.0667
+        },
+        {
+            "name": "نظرکهریزی",
+            "latitude": 38.5333,
+            "longitude": 46.7667
+        },
+        {
+            "name": "قره بابا",
+            "latitude": 38.3167,
+            "longitude": 47.3167
+        },
+        {
+            "name": "شجاع",
+            "latitude": 37.3167,
+            "longitude": 47.3167
+        },
+        {
+            "name": "گردیان",
+            "latitude": 37.5667,
+            "longitude": 47.8667
+        },
+        {
+            "name": "میشاب",
+            "latitude": 37.3833,
+            "longitude": 47.6667
+        },
+        {
+            "name": "لیلان",
+            "latitude": 37.0167,
+            "longitude": 46.2000
+        },
+        {
+            "name": "قره چمن",
+            "latitude": 37.8833,
+            "longitude": 46.9167
+        },
+        {
+            "name": "بهرمان",
+            "latitude": 37.6667,
+            "longitude": 47.1167
+        }
+    ],
+    "آذربایجان غربی": [
+        {
+            "name": "ارومیه",
+            "latitude": 37.5553,
+            "longitude": 45.0725
+        },
+        {
+            "name": "خوی",
+            "latitude": 38.5503,
+            "longitude": 44.9521
+        },
+        {
+            "name": "مهاباد",
+            "latitude": 36.7631,
+            "longitude": 45.7222
+        },
+        {
+            "name": "میاندوآب",
+            "latitude": 36.9694,
+            "longitude": 46.1027
+        },
+        {
+            "name": "سلماس",
+            "latitude": 38.1973,
+            "longitude": 44.7653
+        },
+        {
+            "name": "نقده",
+            "latitude": 36.9553,
+            "longitude": 45.3880
+        },
+        {
+            "name": "پیرانشهر",
+            "latitude": 36.7010,
+            "longitude": 45.1417
+        },
+        {
+            "name": "تکاب",
+            "latitude": 36.4009,
+            "longitude": 47.1133
+        },
+        {
+            "name": "ماکو",
+            "latitude": 39.2952,
+            "longitude": 44.5150
+        },
+        {
+            "name": "چایپاره",
+            "latitude": 38.8833,
+            "longitude": 45.0167
+        },
+        {
+            "name": "شوط",
+            "latitude": 39.2192,
+            "longitude": 44.7719
+        },
+        {
+            "name": "پلدشت",
+            "latitude": 39.3481,
+            "longitude": 45.0675
+        },
+        {
+            "name": "چالدران",
+            "latitude": 39.0649,
+            "longitude": 44.3853
+        },
+        {
+            "name": "بوکان",
+            "latitude": 36.5210,
+            "longitude": 46.2089
+        },
+        {
+            "name": "سردشت",
+            "latitude": 36.1552,
+            "longitude": 45.4793
+        },
+        {
+            "name": "شاهین دژ",
+            "latitude": 36.6793,
+            "longitude": 46.5669
+        },
+        {
+            "name": "اشنویه",
+            "latitude": 37.0397,
+            "longitude": 45.0983
+        },
+        {
+            "name": "سیه چشمه",
+            "latitude": 39.0667,
+            "longitude": 44.3833
+        },
+        {
+            "name": "قوشچی",
+            "latitude": 37.9833,
+            "longitude": 45.0333
+        },
+        {
+            "name": "نالوس",
+            "latitude": 36.9833,
+            "longitude": 45.1333
+        },
+        {
+            "name": "ربط",
+            "latitude": 36.2167,
+            "longitude": 45.5667
+        },
+        {
+            "name": "چهاربرج",
+            "latitude": 36.9667,
+            "longitude": 46.3167
+        },
+        {
+            "name": "باروق",
+            "latitude": 36.9167,
+            "longitude": 46.3167
+        },
+        {
+            "name": "محمدیار",
+            "latitude": 36.9833,
+            "longitude": 45.5167
+        },
+        {
+            "name": "زرآباد",
+            "latitude": 36.6667,
+            "longitude": 45.3167
+        },
+        {
+            "name": "دیزج دیز",
+            "latitude": 38.4667,
+            "longitude": 44.9167
+        },
+        {
+            "name": "ایواوغلی",
+            "latitude": 38.7167,
+            "longitude": 44.8167
+        },
+        {
+            "name": "فیرورق",
+            "latitude": 38.5667,
+            "longitude": 44.8333
+        },
+        {
+            "name": "قره ضیاءالدین",
+            "latitude": 38.8833,
+            "longitude": 45.0333
+        },
+        {
+            "name": "بازرگان",
+            "latitude": 39.3833,
+            "longitude": 44.3833
+        },
+        {
+            "name": "آواجیق",
+            "latitude": 39.3167,
+            "longitude": 44.1667
+        },
+        {
+            "name": "نوشین شهر",
+            "latitude": 36.6667,
+            "longitude": 45.6667
+        },
+        {
+            "name": "سیمینه",
+            "latitude": 36.7167,
+            "longitude": 46.1667
+        },
+        {
+            "name": "خلیفان",
+            "latitude": 36.5667,
+            "longitude": 45.8333
+        },
+        {
+            "name": "گردکشانه",
+            "latitude": 36.7833,
+            "longitude": 45.3167
+        },
+        {
+            "name": "میرآباد",
+            "latitude": 36.4167,
+            "longitude": 45.3667
+        },
+        {
+            "name": "گوگ تپه",
+            "latitude": 36.6667,
+            "longitude": 46.6667
+        },
+        {
+            "name": "محمودآباد",
+            "latitude": 36.6167,
+            "longitude": 46.5667
+        },
+        {
+            "name": "حاجیلار",
+            "latitude": 36.6667,
+            "longitude": 46.4167
+        },
+        {
+            "name": "کشاورز",
+            "latitude": 36.9167,
+            "longitude": 45.6667
+        },
+        {
+            "name": "لاجان",
+            "latitude": 36.6167,
+            "longitude": 45.3167
+        },
+        {
+            "name": "سیلوانه",
+            "latitude": 37.4167,
+            "longitude": 44.9167
+        },
+        {
+            "name": "انزل",
+            "latitude": 37.8167,
+            "longitude": 44.9167
+        },
+        {
+            "name": "زیوه",
+            "latitude": 37.6667,
+            "longitude": 44.9167
+        },
+        {
+            "name": "سرو",
+            "latitude": 37.7167,
+            "longitude": 44.6167
+        },
+        {
+            "name": "قطور",
+            "latitude": 38.4667,
+            "longitude": 44.4167
+        },
+        {
+            "name": "شین آباد",
+            "latitude": 36.6833,
+            "longitude": 45.1167
+        },
+        {
+            "name": "دهدری",
+            "latitude": 36.1333,
+            "longitude": 45.4667
+        },
+        {
+            "name": "گورچین قلعه",
+            "latitude": 36.3167,
+            "longitude": 45.6167
+        },
+        {
+            "name": "کانی بازار",
+            "latitude": 36.7667,
+            "longitude": 45.7167
+        },
+        {
+            "name": "آغبلاغ",
+            "latitude": 36.3667,
+            "longitude": 47.1167
+        },
+        {
+            "name": "تمرچین",
+            "latitude": 36.7167,
+            "longitude": 45.1667
+        },
+        {
+            "name": "بیگم قلعه",
+            "latitude": 36.3167,
+            "longitude": 46.6667
+        },
+        {
+            "name": "سنجی",
+            "latitude": 36.4167,
+            "longitude": 46.3167
+        },
+        {
+            "name": "قره باغ",
+            "latitude": 37.3167,
+            "longitude": 45.1167
+        },
+        {
+            "name": "نازلو",
+            "latitude": 37.6667,
+            "longitude": 45.1167
+        },
+        {
+            "name": "ترگور",
+            "latitude": 37.3167,
+            "longitude": 44.9167
+        },
+        {
+            "name": "دیلزی",
+            "latitude": 38.3167,
+            "longitude": 44.6167
+        },
+        {
+            "name": "موانا",
+            "latitude": 38.9167,
+            "longitude": 44.3167
+        },
+        {
+            "name": "یولاگلدی",
+            "latitude": 39.3167,
+            "longitude": 44.6167
+        },
+        {
+            "name": "دستجرد",
+            "latitude": 39.2167,
+            "longitude": 44.3167
+        },
+        {
+            "name": "زری",
+            "latitude": 36.5667,
+            "longitude": 46.3167
+        },
+        {
+            "name": "کهریز",
+            "latitude": 37.6167,
+            "longitude": 45.1167
+        }
+    ],
+    "اردبیل": [
+        {
+            "name": "اردبیل",
+            "latitude": 38.2498,
+            "longitude": 48.2933
+        },
+        {
+            "name": "مشگین شهر",
+            "latitude": 38.3989,
+            "longitude": 47.6819
+        },
+        {
+            "name": "پارس آباد",
+            "latitude": 39.6482,
+            "longitude": 47.9174
+        },
+        {
+            "name": "خلخال",
+            "latitude": 37.6189,
+            "longitude": 48.5258
+        },
+        {
+            "name": "گرمی",
+            "latitude": 39.0213,
+            "longitude": 48.0800
+        },
+        {
+            "name": "بیله سوار",
+            "latitude": 39.3799,
+            "longitude": 48.3449
+        },
+        {
+            "name": "نمین",
+            "latitude": 38.4269,
+            "longitude": 48.4839
+        },
+        {
+            "name": "نیر",
+            "latitude": 38.0346,
+            "longitude": 47.9986
+        },
+        {
+            "name": "سرعین",
+            "latitude": 38.1513,
+            "longitude": 48.0708
+        },
+        {
+            "name": "کوثر",
+            "latitude": 37.6892,
+            "longitude": 48.2821
+        },
+        {
+            "name": "اصلاندوز",
+            "latitude": 39.4439,
+            "longitude": 47.4045
+        },
+        {
+            "name": "هیر",
+            "latitude": 38.0792,
+            "longitude": 48.5136
+        },
+        {
+            "name": "هشتجین",
+            "latitude": 37.3667,
+            "longitude": 48.3167
+        },
+        {
+            "name": "کلور",
+            "latitude": 37.3833,
+            "longitude": 48.6833
+        },
+        {
+            "name": "جعفرآباد",
+            "latitude": 39.3833,
+            "longitude": 48.1167
+        },
+        {
+            "name": "رضی",
+            "latitude": 38.5667,
+            "longitude": 47.8667
+        },
+        {
+            "name": "فخرآباد",
+            "latitude": 38.5167,
+            "longitude": 47.6667
+        },
+        {
+            "name": "قصابه",
+            "latitude": 38.3833,
+            "longitude": 47.5167
+        },
+        {
+            "name": "لاهرود",
+            "latitude": 38.5167,
+            "longitude": 47.8333
+        },
+        {
+            "name": "آبی بیگلو",
+            "latitude": 38.3833,
+            "longitude": 48.5667
+        },
+        {
+            "name": "عنبران",
+            "latitude": 38.4833,
+            "longitude": 48.7333
+        },
+        {
+            "name": "مرادلو",
+            "latitude": 38.6667,
+            "longitude": 47.7167
+        },
+        {
+            "name": "تازه کند",
+            "latitude": 39.5667,
+            "longitude": 47.9167
+        },
+        {
+            "name": "تازه کندانگوت",
+            "latitude": 39.0333,
+            "longitude": 47.7167
+        },
+        {
+            "name": "گیوی",
+            "latitude": 37.6833,
+            "longitude": 48.3167
+        },
+        {
+            "name": "اسلام آباد",
+            "latitude": 39.6167,
+            "longitude": 47.8667
+        },
+        {
+            "name": "برندق",
+            "latitude": 37.9167,
+            "longitude": 48.1167
+        },
+        {
+            "name": "کورائیم",
+            "latitude": 38.0833,
+            "longitude": 48.2333
+        },
+        {
+            "name": "ویلا دره",
+            "latitude": 38.1667,
+            "longitude": 48.0833
+        },
+        {
+            "name": "آراللو",
+            "latitude": 38.3167,
+            "longitude": 48.3167
+        },
+        {
+            "name": "ثمرین",
+            "latitude": 38.1833,
+            "longitude": 48.4167
+        },
+        {
+            "name": "انی",
+            "latitude": 37.7333,
+            "longitude": 48.3167
+        },
+        {
+            "name": "قره آغاج",
+            "latitude": 38.6833,
+            "longitude": 47.6667
+        },
+        {
+            "name": "آغبلاغ",
+            "latitude": 38.4667,
+            "longitude": 47.9167
+        },
+        {
+            "name": "حسن باروق",
+            "latitude": 38.3167,
+            "longitude": 48.6667
+        },
+        {
+            "name": "شال",
+            "latitude": 37.5333,
+            "longitude": 48.6167
+        },
+        {
+            "name": "گرده",
+            "latitude": 37.4167,
+            "longitude": 48.5833
+        },
+        {
+            "name": "مریان",
+            "latitude": 37.6167,
+            "longitude": 48.4667
+        },
+        {
+            "name": "سنجبد",
+            "latitude": 37.4667,
+            "longitude": 48.5333
+        }
+    ],
+    "اصفهان": [
+        {
+            "name": "اصفهان",
+            "latitude": 32.6546,
+            "longitude": 51.6680
+        },
+        {
+            "name": "حنا",
+            "latitude": 31.2000,
+            "longitude": 51.6667
+        },
+        {
+            "name": "کمه",
+            "latitude": 32.7833,
+            "longitude": 51.3167
+        },
+        {
+            "name": "جندق",
+            "latitude": 34.0333,
+            "longitude": 54.4167
+        },
+        {
+            "name": "زیار",
+            "latitude": 32.5000,
+            "longitude": 51.6167
+        },
+        {
+            "name": "ابوزیدآباد",
+            "latitude": 33.9005,
+            "longitude": 51.7661
+        },
+        {
+            "name": "برزک",
+            "latitude": 33.7833,
+            "longitude": 51.2333
+        },
+        {
+            "name": "بویین سفلی",
+            "latitude": 33.0000,
+            "longitude": 50.3167
+        },
+        {
+            "name": "پیربکران",
+            "latitude": 32.4667,
+            "longitude": 51.5667
+        },
+        {
+            "name": "جوشقان قالی",
+            "latitude": 33.5833,
+            "longitude": 51.3167
+        },
+        {
+            "name": "خالدآباد",
+            "latitude": 33.7000,
+            "longitude": 51.9833
+        },
+        {
+            "name": "دامنه",
+            "latitude": 33.0333,
+            "longitude": 50.4833
+        },
+        {
+            "name": "رزوه",
+            "latitude": 32.9333,
+            "longitude": 50.5667
+        },
+        {
+            "name": "طرق‌رود",
+            "latitude": 33.6667,
+            "longitude": 51.4833
+        },
+        {
+            "name": "کرکوند",
+            "latitude": 32.3333,
+            "longitude": 51.4333
+        },
+        {
+            "name": "کمشچه",
+            "latitude": 32.9000,
+            "longitude": 51.9833
+        },
+        {
+            "name": "کهریزسنگ",
+            "latitude": 32.6167,
+            "longitude": 51.4833
+        },
+        {
+            "name": "گرگاب",
+            "latitude": 32.8667,
+            "longitude": 51.6167
+        },
+        {
+            "name": "مشکات",
+            "latitude": 34.1772,
+            "longitude": 51.2641
+        },
+        {
+            "name": "کاشان",
+            "latitude": 33.9850,
+            "longitude": 51.4096
+        },
+        {
+            "name": "خمینی شهر",
+            "latitude": 32.6856,
+            "longitude": 51.5361
+        },
+        {
+            "name": "نجف آباد",
+            "latitude": 32.6344,
+            "longitude": 51.3678
+        },
+        {
+            "name": "فلاورجان",
+            "latitude": 32.5553,
+            "longitude": 51.5100
+        },
+        {
+            "name": "شاهین شهر",
+            "latitude": 32.8579,
+            "longitude": 51.5532
+        },
+        {
+            "name": "شهرضا",
+            "latitude": 32.0089,
+            "longitude": 51.8558
+        },
+        {
+            "name": "مبارکه",
+            "latitude": 32.3466,
+            "longitude": 51.5045
+        },
+        {
+            "name": "آران و بیدگل",
+            "latitude": 34.0575,
+            "longitude": 51.4829
+        },
+        {
+            "name": "گلپایگان",
+            "latitude": 33.4536,
+            "longitude": 50.2884
+        },
+        {
+            "name": "خوانسار",
+            "latitude": 33.2205,
+            "longitude": 50.3150
+        },
+        {
+            "name": "سمیرم",
+            "latitude": 31.3986,
+            "longitude": 51.5678
+        },
+        {
+            "name": "نطنز",
+            "latitude": 33.5112,
+            "longitude": 51.9161
+        },
+        {
+            "name": "فریدن",
+            "latitude": 33.0215,
+            "longitude": 50.3069
+        },
+        {
+            "name": "فریدونشهر",
+            "latitude": 32.9410,
+            "longitude": 50.1210
+        },
+        {
+            "name": "چادگان",
+            "latitude": 32.7683,
+            "longitude": 50.6289
+        },
+        {
+            "name": "تیران",
+            "latitude": 32.7026,
+            "longitude": 51.1537
+        },
+        {
+            "name": "لنجان",
+            "latitude": 32.4750,
+            "longitude": 51.3050
+        },
+        {
+            "name": "دهاقان",
+            "latitude": 31.9400,
+            "longitude": 51.6478
+        },
+        {
+            "name": "اردستان",
+            "latitude": 33.3761,
+            "longitude": 52.3694
+        },
+        {
+            "name": "برخوار",
+            "latitude": 32.8539,
+            "longitude": 51.6746
+        },
+        {
+            "name": "بوئین میاندشت",
+            "latitude": 33.0700,
+            "longitude": 50.1647
+        },
+        {
+            "name": "جرقویه",
+            "latitude": 32.1083,
+            "longitude": 52.6286
+        },
+        {
+            "name": "میمه",
+            "latitude": 33.4478,
+            "longitude": 51.1722
+        },
+        {
+            "name": "زرین شهر",
+            "latitude": 32.3897,
+            "longitude": 51.3766
+        },
+        {
+            "name": "فولادشهر",
+            "latitude": 32.4833,
+            "longitude": 51.4167
+        },
+        {
+            "name": "باغ بهادران",
+            "latitude": 32.3761,
+            "longitude": 51.1850
+        },
+        {
+            "name": "چمگردان",
+            "latitude": 32.3917,
+            "longitude": 51.3392
+        },
+        {
+            "name": "سده لنجان",
+            "latitude": 32.3833,
+            "longitude": 51.3167
+        },
+        {
+            "name": "ورنامخواست",
+            "latitude": 32.3667,
+            "longitude": 51.2833
+        },
+        {
+            "name": "قهدریجان",
+            "latitude": 32.5767,
+            "longitude": 51.4539
+        },
+        {
+            "name": "زاینده رود",
+            "latitude": 32.5167,
+            "longitude": 51.4167
+        },
+        {
+            "name": "داران",
+            "latitude": 32.9889,
+            "longitude": 50.4108
+        },
+        {
+            "name": "افوس",
+            "latitude": 33.0167,
+            "longitude": 50.0833
+        },
+        {
+            "name": "رزوه",
+            "latitude": 32.8833,
+            "longitude": 50.5667
+        },
+        {
+            "name": "گوگد",
+            "latitude": 33.4769,
+            "longitude": 50.3561
+        },
+        {
+            "name": "نیاسر",
+            "latitude": 33.9750,
+            "longitude": 51.1486
+        },
+        {
+            "name": "قمصر",
+            "latitude": 33.7500,
+            "longitude": 51.4333
+        },
+        {
+            "name": "کامو و چوگان",
+            "latitude": 33.6167,
+            "longitude": 51.3833
+        },
+        {
+            "name": "برزک",
+            "latitude": 33.7833,
+            "longitude": 51.2333
+        },
+        {
+            "name": "نوش آباد",
+            "latitude": 34.0833,
+            "longitude": 51.4333
+        },
+        {
+            "name": "ابوزیدآباد",
+            "latitude": 34.0333,
+            "longitude": 51.6167
+        },
+        {
+            "name": "خوروبیابانک",
+            "latitude": 33.7833,
+            "longitude": 55.0833
+        },
+        {
+            "name": "سفیدشهر",
+            "latitude": 34.1333,
+            "longitude": 51.5667
+        },
+        {
+            "name": "خالدآباد",
+            "latitude": 33.6833,
+            "longitude": 51.9833
+        },
+        {
+            "name": "وزوان",
+            "latitude": 33.4167,
+            "longitude": 51.1833
+        },
+        {
+            "name": "لای بید",
+            "latitude": 33.4667,
+            "longitude": 51.2167
+        },
+        {
+            "name": "گرگاب",
+            "latitude": 32.8667,
+            "longitude": 51.6167
+        },
+        {
+            "name": "گزبرخوار",
+            "latitude": 32.8167,
+            "longitude": 51.6667
+        },
+        {
+            "name": "حبیب آباد",
+            "latitude": 32.8333,
+            "longitude": 51.7833
+        },
+        {
+            "name": "کمشچه",
+            "latitude": 32.9167,
+            "longitude": 51.8167
+        },
+        {
+            "name": "دستگرد",
+            "latitude": 32.7833,
+            "longitude": 51.7167
+        },
+        {
+            "name": "زیباشهر",
+            "latitude": 32.3833,
+            "longitude": 51.5667
+        },
+        {
+            "name": "طالخونچه",
+            "latitude": 32.2667,
+            "longitude": 51.5667
+        },
+        {
+            "name": "ورپشت",
+            "latitude": 32.3167,
+            "longitude": 51.6667
+        },
+        {
+            "name": "عسگران",
+            "latitude": 31.9333,
+            "longitude": 51.6667
+        },
+        {
+            "name": "کوهپایه",
+            "latitude": 32.7167,
+            "longitude": 52.4333
+        },
+        {
+            "name": "سگزی",
+            "latitude": 32.6833,
+            "longitude": 52.1167
+        },
+        {
+            "name": "تودشک",
+            "latitude": 32.7167,
+            "longitude": 52.6667
+        },
+        {
+            "name": "ورزنه",
+            "latitude": 32.4167,
+            "longitude": 52.6667
+        },
+        {
+            "name": "هرند",
+            "latitude": 32.5667,
+            "longitude": 52.4333
+        },
+        {
+            "name": "اژیه",
+            "latitude": 32.4333,
+            "longitude": 52.3833
+        },
+        {
+            "name": "حسن آباد",
+            "latitude": 32.3167,
+            "longitude": 52.6667
+        },
+        {
+            "name": "محمدآباد",
+            "latitude": 32.3167,
+            "longitude": 52.3167
+        },
+        {
+            "name": "نصرآباد",
+            "latitude": 32.2667,
+            "longitude": 52.9167
+        },
+        {
+            "name": "خور",
+            "latitude": 33.7833,
+            "longitude": 55.0833
+        },
+        {
+            "name": "فرخی",
+            "latitude": 33.8333,
+            "longitude": 54.9333
+        },
+        {
+            "name": "ابیانه",
+            "latitude": 33.5833,
+            "longitude": 51.5833
+        },
+        {
+            "name": "طرق رود",
+            "latitude": 33.6167,
+            "longitude": 51.9167
+        },
+        {
+            "name": "بادرود",
+            "latitude": 33.6833,
+            "longitude": 52.0167
+        },
+        {
+            "name": "ونک",
+            "latitude": 31.5333,
+            "longitude": 51.3833
+        },
+        {
+            "name": "همت آباد",
+            "latitude": 31.4667,
+            "longitude": 51.6667
+        },
+        {
+            "name": "کهک",
+            "latitude": 31.3833,
+            "longitude": 51.5667
+        },
+        {
+            "name": "قلعه سرخ",
+            "latitude": 31.3167,
+            "longitude": 51.4833
+        },
+        {
+            "name": "اسفرجان",
+            "latitude": 32.0167,
+            "longitude": 51.8167
+        },
+        {
+            "name": "پیربکران",
+            "latitude": 32.4667,
+            "longitude": 51.5667
+        },
+        {
+            "name": "بهارستان",
+            "latitude": 32.4833,
+            "longitude": 51.7167
+        },
+        {
+            "name": "دیزیچه",
+            "latitude": 32.3833,
+            "longitude": 51.5167
+        },
+        {
+            "name": "ابراهیم آباد",
+            "latitude": 33.3167,
+            "longitude": 50.6167
+        },
+        {
+            "name": "مهاباد",
+            "latitude": 33.5333,
+            "longitude": 52.3167
+        },
+        {
+            "name": "زواره",
+            "latitude": 33.4500,
+            "longitude": 52.4833
+        },
+        {
+            "name": "کچو",
+            "latitude": 33.3833,
+            "longitude": 52.3167
+        },
+        {
+            "name": "ریگستان",
+            "latitude": 33.3167,
+            "longitude": 52.3833
+        },
+        {
+            "name": "ساسان",
+            "latitude": 33.3167,
+            "longitude": 52.4667
+        },
+        {
+            "name": "علویجه",
+            "latitude": 33.0333,
+            "longitude": 51.0833
+        },
+        {
+            "name": "سین",
+            "latitude": 32.8333,
+            "longitude": 51.6667
+        },
+        {
+            "name": "دولت آباد",
+            "latitude": 32.7998,
+            "longitude": 51.6955
+        },
+        {
+            "name": "خورزوق",
+            "latitude": 32.7833,
+            "longitude": 51.6333
+        },
+        {
+            "name": "کرکوند",
+            "latitude": 32.3333,
+            "longitude": 51.4333
+        }
+    ],
+    "البرز": [
+        {
+            "name": "کرج",
+            "latitude": 35.8400,
+            "longitude": 50.9391
+        },
+        {
+            "name": "فردیس",
+            "latitude": 35.7247,
+            "longitude": 50.9846
+        },
+        {
+            "name": "نظرآباد",
+            "latitude": 35.9522,
+            "longitude": 50.6075
+        },
+        {
+            "name": "هشتگرد",
+            "latitude": 35.9649,
+            "longitude": 50.6777
+        },
+        {
+            "name": "اشتهارد",
+            "latitude": 35.7256,
+            "longitude": 50.3646
+        },
+        {
+            "name": "طالقان",
+            "latitude": 36.1746,
+            "longitude": 50.5922
+        },
+        {
+            "name": "چهارباغ",
+            "latitude": 35.8392,
+            "longitude": 50.8486
+        },
+        {
+            "name": "کوهسار",
+            "latitude": 35.9556,
+            "longitude": 50.8119
+        },
+        {
+            "name": "ماهدشت",
+            "latitude": 35.7292,
+            "longitude": 50.8136
+        },
+        {
+            "name": "محمدشهر",
+            "latitude": 35.7569,
+            "longitude": 50.9025
+        },
+        {
+            "name": "مشکین دشت",
+            "latitude": 35.7472,
+            "longitude": 50.9433
+        },
+        {
+            "name": "گرمدره",
+            "latitude": 35.7603,
+            "longitude": 51.0600
+        },
+        {
+            "name": "کمالشهر",
+            "latitude": 35.8653,
+            "longitude": 50.8739
+        },
+        {
+            "name": "گلسار",
+            "latitude": 35.9167,
+            "longitude": 50.6333
+        },
+        {
+            "name": "تنکمان",
+            "latitude": 35.8833,
+            "longitude": 50.6167
+        },
+        {
+            "name": "آسارا",
+            "latitude": 36.0333,
+            "longitude": 51.0167
+        },
+        {
+            "name": "جوستان",
+            "latitude": 36.1833,
+            "longitude": 50.6667
+        },
+        {
+            "name": "پلنگ آباد",
+            "latitude": 35.6833,
+            "longitude": 50.3667
+        },
+        {
+            "name": "سیف آباد",
+            "latitude": 35.7167,
+            "longitude": 50.4167
+        },
+        {
+            "name": "حیدرآباد",
+            "latitude": 35.7833,
+            "longitude": 50.9167
+        },
+        {
+            "name": "مهرشهر",
+            "latitude": 35.7833,
+            "longitude": 50.9667
+        },
+        {
+            "name": "جهان نما",
+            "latitude": 35.8167,
+            "longitude": 50.9667
+        },
+        {
+            "name": "کیانمهر",
+            "latitude": 35.7667,
+            "longitude": 50.8833
+        }
+    ],
+    "ایلام": [
+        {
+            "name": "ایلام",
+            "latitude": 33.6374,
+            "longitude": 46.4226
+        },
+        {
+            "name": "ایوان",
+            "latitude": 33.8273,
+            "longitude": 46.3096
+        },
+        {
+            "name": "دهلران",
+            "latitude": 32.6941,
+            "longitude": 47.2679
+        },
+        {
+            "name": "مهران",
+            "latitude": 33.1222,
+            "longitude": 46.1646
+        },
+        {
+            "name": "دره شهر",
+            "latitude": 33.1396,
+            "longitude": 47.3761
+        },
+        {
+            "name": "آبدانان",
+            "latitude": 32.9928,
+            "longitude": 47.4198
+        },
+        {
+            "name": "چرداول",
+            "latitude": 33.6938,
+            "longitude": 46.7472
+        },
+        {
+            "name": "ملکشاهی",
+            "latitude": 33.3828,
+            "longitude": 46.5983
+        },
+        {
+            "name": "بدره",
+            "latitude": 33.3056,
+            "longitude": 47.0375
+        },
+        {
+            "name": "سیروان",
+            "latitude": 33.4586,
+            "longitude": 46.5678
+        },
+        {
+            "name": "هلیلان",
+            "latitude": 33.7667,
+            "longitude": 46.3167
+        },
+        {
+            "name": "زرنه",
+            "latitude": 33.9167,
+            "longitude": 46.1833
+        },
+        {
+            "name": "مورموری",
+            "latitude": 32.7333,
+            "longitude": 47.6667
+        },
+        {
+            "name": "موسیان",
+            "latitude": 32.5167,
+            "longitude": 47.3667
+        },
+        {
+            "name": "پهله",
+            "latitude": 33.0167,
+            "longitude": 46.8667
+        },
+        {
+            "name": "مهر",
+            "latitude": 33.2667,
+            "longitude": 46.3167
+        },
+        {
+            "name": "دلگشا",
+            "latitude": 33.6833,
+            "longitude": 46.5833
+        },
+        {
+            "name": "لومار",
+            "latitude": 33.5667,
+            "longitude": 46.8167
+        },
+        {
+            "name": "چوار",
+            "latitude": 33.6833,
+            "longitude": 46.3167
+        },
+        {
+            "name": "سرابله",
+            "latitude": 33.7667,
+            "longitude": 46.5667
+        },
+        {
+            "name": "ارکواز",
+            "latitude": 33.3833,
+            "longitude": 46.5833
+        },
+        {
+            "name": "توحید",
+            "latitude": 32.9667,
+            "longitude": 47.6667
+        },
+        {
+            "name": "بلاوه",
+            "latitude": 33.3167,
+            "longitude": 46.3167
+        },
+        {
+            "name": "میمه",
+            "latitude": 32.8167,
+            "longitude": 47.3167
+        },
+        {
+            "name": "صالح آباد",
+            "latitude": 33.4667,
+            "longitude": 46.1833
+        }
+    ],
+    "بوشهر": [
+        {
+            "name": "خارک",
+            "latitude": 29.2500,
+            "longitude": 50.3167
+        },
+        {
+            "name": "چاه‌مبارک",
+            "latitude": 27.6667,
+            "longitude": 52.3167
+        },
+        {
+            "name": "دوراهک",
+            "latitude": 28.3833,
+            "longitude": 51.3167
+        },
+        {
+            "name": "بیدخون",
+            "latitude": 27.8333,
+            "longitude": 52.1667
+        },
+        {
+            "name": "بوشهر",
+            "latitude": 28.9234,
+            "longitude": 50.8203
+        },
+        {
+            "name": "بندر گناوه",
+            "latitude": 29.5791,
+            "longitude": 50.5170
+        },
+        {
+            "name": "بندر کنگان",
+            "latitude": 27.8370,
+            "longitude": 52.0646
+        },
+        {
+            "name": "بندر دیر",
+            "latitude": 27.8400,
+            "longitude": 51.9376
+        },
+        {
+            "name": "جم",
+            "latitude": 27.8278,
+            "longitude": 52.3268
+        },
+        {
+            "name": "دشتستان",
+            "latitude": 29.2666,
+            "longitude": 51.2166
+        },
+        {
+            "name": "دشتی",
+            "latitude": 28.6396,
+            "longitude": 51.5668
+        },
+        {
+            "name": "تنگستان",
+            "latitude": 28.8846,
+            "longitude": 51.2715
+        },
+        {
+            "name": "دلوار",
+            "latitude": 28.7628,
+            "longitude": 51.1746
+        },
+        {
+            "name": "عسلویه",
+            "latitude": 27.4761,
+            "longitude": 52.6076
+        },
+        {
+            "name": "برازجان",
+            "latitude": 29.2699,
+            "longitude": 51.2198
+        },
+        {
+            "name": "خورموج",
+            "latitude": 28.6548,
+            "longitude": 51.3776
+        },
+        {
+            "name": "اهرم",
+            "latitude": 28.8833,
+            "longitude": 51.2833
+        },
+        {
+            "name": "چغادک",
+            "latitude": 28.9833,
+            "longitude": 51.0333
+        },
+        {
+            "name": "آب پخش",
+            "latitude": 29.3667,
+            "longitude": 51.0667
+        },
+        {
+            "name": "شبانکاره",
+            "latitude": 29.4667,
+            "longitude": 50.9833
+        },
+        {
+            "name": "سعدآباد",
+            "latitude": 29.3833,
+            "longitude": 51.1167
+        },
+        {
+            "name": "وحدتیه",
+            "latitude": 29.4833,
+            "longitude": 51.2333
+        },
+        {
+            "name": "دالکی",
+            "latitude": 29.4333,
+            "longitude": 51.2833
+        },
+        {
+            "name": "کلمه",
+            "latitude": 29.2333,
+            "longitude": 51.4667
+        },
+        {
+            "name": "بندر ریگ",
+            "latitude": 29.4833,
+            "longitude": 50.6167
+        },
+        {
+            "name": "امام حسن",
+            "latitude": 29.8333,
+            "longitude": 50.2667
+        },
+        {
+            "name": "کاکی",
+            "latitude": 28.3333,
+            "longitude": 51.5333
+        },
+        {
+            "name": "شنبه",
+            "latitude": 28.3833,
+            "longitude": 51.7333
+        },
+        {
+            "name": "بادوله",
+            "latitude": 28.3167,
+            "longitude": 51.6167
+        },
+        {
+            "name": "عالی شهر",
+            "latitude": 28.9333,
+            "longitude": 50.7667
+        },
+        {
+            "name": "نخل تقی",
+            "latitude": 27.5000,
+            "longitude": 52.5833
+        },
+        {
+            "name": "بنک",
+            "latitude": 27.8667,
+            "longitude": 52.0333
+        },
+        {
+            "name": "سیراف",
+            "latitude": 27.6667,
+            "longitude": 52.3167
+        },
+        {
+            "name": "آبدان",
+            "latitude": 27.9167,
+            "longitude": 51.7833
+        },
+        {
+            "name": "بردخون",
+            "latitude": 27.9833,
+            "longitude": 51.4833
+        },
+        {
+            "name": "انارستان",
+            "latitude": 27.9167,
+            "longitude": 52.1333
+        },
+        {
+            "name": "ریز",
+            "latitude": 28.0333,
+            "longitude": 52.0833
+        },
+        {
+            "name": "بهارستان",
+            "latitude": 27.8667,
+            "longitude": 52.3167
+        },
+        {
+            "name": "تنگ ارم",
+            "latitude": 29.1333,
+            "longitude": 51.5167
+        },
+        {
+            "name": "بوشکان",
+            "latitude": 28.8333,
+            "longitude": 51.6667
+        }
+    ],
+    "تهران": [
+        {
+            "name": "باقرشهر",
+            "latitude": 35.5333,
+            "longitude": 51.4000
+        },
+        {
+            "name": "چهارباغ",
+            "latitude": 35.6892,
+            "longitude": 51.3890
+        },
+        {
+            "name": "تهران",
+            "latitude": 35.6892,
+            "longitude": 51.3890
+        },
+        {
+            "name": "ری",
+            "latitude": 35.5960,
+            "longitude": 51.4364
+        },
+        {
+            "name": "ورامین",
+            "latitude": 35.3251,
+            "longitude": 51.6472
+        },
+        {
+            "name": "اسلامشهر",
+            "latitude": 35.5522,
+            "longitude": 51.2349
+        },
+        {
+            "name": "قدس",
+            "latitude": 35.7214,
+            "longitude": 51.1093
+        },
+        {
+            "name": "ملارد",
+            "latitude": 35.6659,
+            "longitude": 50.9767
+        },
+        {
+            "name": "شهریار",
+            "latitude": 35.6586,
+            "longitude": 51.0578
+        },
+        {
+            "name": "بهارستان",
+            "latitude": 35.5350,
+            "longitude": 51.1940
+        },
+        {
+            "name": "پاکدشت",
+            "latitude": 35.4669,
+            "longitude": 51.6766
+        },
+        {
+            "name": "رباط کریم",
+            "latitude": 35.4846,
+            "longitude": 51.0829
+        },
+        {
+            "name": "دماوند",
+            "latitude": 35.7178,
+            "longitude": 52.0650
+        },
+        {
+            "name": "فیروزکوه",
+            "latitude": 35.7567,
+            "longitude": 52.7705
+        },
+        {
+            "name": "شمیرانات",
+            "latitude": 35.9553,
+            "longitude": 51.5988
+        },
+        {
+            "name": "پردیس",
+            "latitude": 35.7371,
+            "longitude": 51.7758
+        },
+        {
+            "name": "پیشوا",
+            "latitude": 35.3080,
+            "longitude": 51.7267
+        },
+        {
+            "name": "قرچک",
+            "latitude": 35.4283,
+            "longitude": 51.5754
+        },
+        {
+            "name": "اندیشه",
+            "latitude": 35.6961,
+            "longitude": 51.0339
+        },
+        {
+            "name": "بومهن",
+            "latitude": 35.7296,
+            "longitude": 51.8668
+        },
+        {
+            "name": "رودهن",
+            "latitude": 35.7342,
+            "longitude": 51.9111
+        },
+        {
+            "name": "لواسان",
+            "latitude": 35.8256,
+            "longitude": 51.6342
+        },
+        {
+            "name": "فشم",
+            "latitude": 35.9308,
+            "longitude": 51.5268
+        },
+        {
+            "name": "آبسرد",
+            "latitude": 35.6248,
+            "longitude": 52.1398
+        },
+        {
+            "name": "کیلان",
+            "latitude": 35.5533,
+            "longitude": 52.1667
+        },
+        {
+            "name": "آبعلی",
+            "latitude": 35.7583,
+            "longitude": 51.9667
+        },
+        {
+            "name": "جاجرود",
+            "latitude": 35.7333,
+            "longitude": 51.6833
+        },
+        {
+            "name": "چهاردانگه",
+            "latitude": 35.6000,
+            "longitude": 51.3167
+        },
+        {
+            "name": "صالحیه",
+            "latitude": 35.5167,
+            "longitude": 51.1833
+        },
+        {
+            "name": "نسیم شهر",
+            "latitude": 35.5583,
+            "longitude": 51.1333
+        },
+        {
+            "name": "گلستان",
+            "latitude": 35.5183,
+            "longitude": 51.1833
+        },
+        {
+            "name": "وحیدیه",
+            "latitude": 35.6167,
+            "longitude": 51.0333
+        },
+        {
+            "name": "صباشهر",
+            "latitude": 35.6333,
+            "longitude": 51.0667
+        },
+        {
+            "name": "شاهدشهر",
+            "latitude": 35.5667,
+            "longitude": 51.0833
+        },
+        {
+            "name": "فردوسیه",
+            "latitude": 35.6000,
+            "longitude": 51.0667
+        },
+        {
+            "name": "باغستان",
+            "latitude": 35.6333,
+            "longitude": 51.0167
+        },
+        {
+            "name": "جوادآباد",
+            "latitude": 35.2167,
+            "longitude": 51.6833
+        },
+        {
+            "name": "فرون آباد",
+            "latitude": 35.5167,
+            "longitude": 51.6167
+        },
+        {
+            "name": "خاورشهر",
+            "latitude": 35.5333,
+            "longitude": 51.6833
+        },
+        {
+            "name": "کهریزک",
+            "latitude": 35.5167,
+            "longitude": 51.3667
+        },
+        {
+            "name": "حسن آباد",
+            "latitude": 35.3667,
+            "longitude": 51.2333
+        },
+        {
+            "name": "ارجمند",
+            "latitude": 35.8167,
+            "longitude": 52.5167
+        },
+        {
+            "name": "شریف آباد",
+            "latitude": 35.4167,
+            "longitude": 51.7833
+        },
+        {
+            "name": "پرند",
+            "latitude": 35.4833,
+            "longitude": 50.9667
+        },
+        {
+            "name": "صفادشت",
+            "latitude": 35.6833,
+            "longitude": 50.8333
+        }
+    ],
+    "چهارمحال و بختیاری": [
+        {
+            "name": "شهرکرد",
+            "latitude": 32.3256,
+            "longitude": 50.8494
+        },
+        {
+            "name": "بروجن",
+            "latitude": 31.9652,
+            "longitude": 51.2870
+        },
+        {
+            "name": "ناغان",
+            "latitude": 31.9333,
+            "longitude": 50.7167
+        },
+        {
+            "name": "فارسان",
+            "latitude": 32.2569,
+            "longitude": 50.5642
+        },
+        {
+            "name": "لردگان",
+            "latitude": 31.5104,
+            "longitude": 50.8296
+        },
+        {
+            "name": "اردل",
+            "latitude": 31.9996,
+            "longitude": 50.6616
+        },
+        {
+            "name": "کوهرنگ",
+            "latitude": 32.4833,
+            "longitude": 50.1167
+        },
+        {
+            "name": "کیار",
+            "latitude": 32.0333,
+            "longitude": 50.8167
+        },
+        {
+            "name": "سامان",
+            "latitude": 32.4500,
+            "longitude": 50.9138
+        },
+        {
+            "name": "بن",
+            "latitude": 32.5333,
+            "longitude": 50.7500
+        },
+        {
+            "name": "خانمیرزا",
+            "latitude": 31.6167,
+            "longitude": 51.1833
+        },
+        {
+            "name": "هفشجان",
+            "latitude": 32.2333,
+            "longitude": 50.7833
+        },
+        {
+            "name": "فرخشهر",
+            "latitude": 32.2667,
+            "longitude": 50.9167
+        },
+        {
+            "name": "طاقانک",
+            "latitude": 32.2167,
+            "longitude": 50.8333
+        },
+        {
+            "name": "سورشجان",
+            "latitude": 32.3167,
+            "longitude": 50.6833
+        },
+        {
+            "name": "چلیچه",
+            "latitude": 32.2333,
+            "longitude": 50.6167
+        },
+        {
+            "name": "گندمان",
+            "latitude": 31.8667,
+            "longitude": 51.1667
+        },
+        {
+            "name": "بلداجی",
+            "latitude": 31.9333,
+            "longitude": 51.0500
+        },
+        {
+            "name": "نقنه",
+            "latitude": 31.9333,
+            "longitude": 51.3167
+        },
+        {
+            "name": "سفیددشت",
+            "latitude": 32.1333,
+            "longitude": 51.1833
+        },
+        {
+            "name": "چلگرد",
+            "latitude": 32.4667,
+            "longitude": 50.1333
+        },
+        {
+            "name": "بازفت",
+            "latitude": 32.3167,
+            "longitude": 49.9167
+        },
+        {
+            "name": "صمصامی",
+            "latitude": 32.5667,
+            "longitude": 50.3167
+        },
+        {
+            "name": "شلمزار",
+            "latitude": 32.0500,
+            "longitude": 50.6833
+        },
+        {
+            "name": "گهرو",
+            "latitude": 32.0167,
+            "longitude": 50.8833
+        },
+        {
+            "name": "دشتک",
+            "latitude": 32.1333,
+            "longitude": 50.4333
+        },
+        {
+            "name": "باباحیدر",
+            "latitude": 32.3333,
+            "longitude": 50.4667
+        },
+        {
+            "name": "پردنجان",
+            "latitude": 32.3833,
+            "longitude": 50.6667
+        },
+        {
+            "name": "جونقان",
+            "latitude": 32.1500,
+            "longitude": 50.6833
+        },
+        {
+            "name": "مال خلیفه",
+            "latitude": 31.3167,
+            "longitude": 51.1833
+        },
+        {
+            "name": "وردنجان",
+            "latitude": 32.4667,
+            "longitude": 50.7667
+        },
+        {
+            "name": "سودجان",
+            "latitude": 32.5167,
+            "longitude": 50.9167
+        },
+        {
+            "name": "کاج",
+            "latitude": 32.3833,
+            "longitude": 50.9833
+        },
+        {
+            "name": "سرخون",
+            "latitude": 31.7333,
+            "longitude": 50.9167
+        },
+        {
+            "name": "تلورد",
+            "latitude": 31.5833,
+            "longitude": 51.0667
+        },
+        {
+            "name": "آلونی",
+            "latitude": 31.5667,
+            "longitude": 51.3167
+        },
+        {
+            "name": "هارونی",
+            "latitude": 31.8333,
+            "longitude": 50.8167
+        },
+        {
+            "name": "یان چشمه",
+            "latitude": 32.3833,
+            "longitude": 50.3167
+        }
+    ],
+    "خراسان جنوبی": [
+        {
+            "name": "بیرجند",
+            "latitude": 32.8649,
+            "longitude": 59.2211
+        },
+        {
+            "name": "قاین",
+            "latitude": 33.7265,
+            "longitude": 59.1844
+        },
+        {
+            "name": "زهان",
+            "latitude": 33.4183,
+            "longitude": 59.8143
+        },
+        {
+            "name": "طبس",
+            "latitude": 33.5959,
+            "longitude": 56.9244
+        },
+        {
+            "name": "فردوس",
+            "latitude": 34.0185,
+            "longitude": 58.1722
+        },
+        {
+            "name": "نهبندان",
+            "latitude": 31.5419,
+            "longitude": 60.0363
+        },
+        {
+            "name": "سرایان",
+            "latitude": 33.8600,
+            "longitude": 58.5217
+        },
+        {
+            "name": "سر بیشه",
+            "latitude": 32.5756,
+            "longitude": 59.7982
+        },
+        {
+            "name": "بشرویه",
+            "latitude": 33.8639,
+            "longitude": 57.3086
+        },
+        {
+            "name": "درمیان",
+            "latitude": 32.9833,
+            "longitude": 60.1333
+        },
+        {
+            "name": "زیرکوه",
+            "latitude": 33.6333,
+            "longitude": 60.2167
+        },
+        {
+            "name": "خوسف",
+            "latitude": 31.9167,
+            "longitude": 58.8833
+        },
+        {
+            "name": "اسدیه",
+            "latitude": 32.9167,
+            "longitude": 60.0167
+        },
+        {
+            "name": "محمدشهر",
+            "latitude": 32.8667,
+            "longitude": 59.2833
+        },
+        {
+            "name": "حاجی آباد",
+            "latitude": 33.6167,
+            "longitude": 59.9833
+        },
+        {
+            "name": "آیسک",
+            "latitude": 33.9167,
+            "longitude": 58.3833
+        },
+        {
+            "name": "سه قلعه",
+            "latitude": 33.6833,
+            "longitude": 58.3833
+        },
+        {
+            "name": "شوسف",
+            "latitude": 31.8033,
+            "longitude": 60.3167
+        },
+        {
+            "name": "دیهوک",
+            "latitude": 33.2833,
+            "longitude": 57.3167
+        },
+        {
+            "name": "عشق آباد",
+            "latitude": 34.0833,
+            "longitude": 56.8667
+        },
+        {
+            "name": "طبس مسینا",
+            "latitude": 33.5833,
+            "longitude": 56.9167
+        },
+        {
+            "name": "ارسک",
+            "latitude": 33.6667,
+            "longitude": 57.3833
+        },
+        {
+            "name": "قهستان",
+            "latitude": 33.1333,
+            "longitude": 59.7167
+        },
+        {
+            "name": "گزیک",
+            "latitude": 32.9167,
+            "longitude": 60.3167
+        },
+        {
+            "name": "مود",
+            "latitude": 32.7167,
+            "longitude": 59.5167
+        },
+        {
+            "name": "خضری دشت بیاض",
+            "latitude": 34.0333,
+            "longitude": 58.8167
+        },
+        {
+            "name": "اسفدن",
+            "latitude": 33.6667,
+            "longitude": 59.3167
+        },
+        {
+            "name": "آرین شهر",
+            "latitude": 33.3167,
+            "longitude": 59.1167
+        },
+        {
+            "name": "نیمبلوک",
+            "latitude": 33.9167,
+            "longitude": 59.0167
+        },
+        {
+            "name": "رقه",
+            "latitude": 33.3167,
+            "longitude": 56.9167
+        },
+        {
+            "name": "چاهک",
+            "latitude": 31.6167,
+            "longitude": 60.3167
+        },
+        {
+            "name": "نوغاب",
+            "latitude": 32.9167,
+            "longitude": 60.6167
+        }
+    ],
+    "خراسان رضوی": [
+        {
+            "name": "مشهد",
+            "latitude": 36.2970,
+            "longitude": 59.6057
+        },
+        {
+            "name": "نیشابور",
+            "latitude": 36.2133,
+            "longitude": 58.7958
+        },
+        {
+            "name": "سبزوار",
+            "latitude": 36.2126,
+            "longitude": 57.6819
+        },
+        {
+            "name": "تربت حیدریه",
+            "latitude": 35.2740,
+            "longitude": 59.2195
+        },
+        {
+            "name": "تربت جام",
+            "latitude": 35.2440,
+            "longitude": 60.6225
+        },
+        {
+            "name": "قوچان",
+            "latitude": 37.1060,
+            "longitude": 58.5095
+        },
+        {
+            "name": "کاشمر",
+            "latitude": 35.2383,
+            "longitude": 58.4656
+        },
+        {
+            "name": "گناباد",
+            "latitude": 34.3529,
+            "longitude": 58.6837
+        },
+        {
+            "name": "تایباد",
+            "latitude": 34.7400,
+            "longitude": 60.7756
+        },
+        {
+            "name": "چناران",
+            "latitude": 36.6455,
+            "longitude": 59.1212
+        },
+        {
+            "name": "درگز",
+            "latitude": 37.4440,
+            "longitude": 59.1081
+        },
+        {
+            "name": "فریمان",
+            "latitude": 35.7069,
+            "longitude": 59.8500
+        },
+        {
+            "name": "سرخس",
+            "latitude": 36.5450,
+            "longitude": 61.1577
+        },
+        {
+            "name": "بردسکن",
+            "latitude": 35.2606,
+            "longitude": 57.9699
+        },
+        {
+            "name": "خواف",
+            "latitude": 34.5764,
+            "longitude": 60.1409
+        },
+        {
+            "name": "رشتخوار",
+            "latitude": 34.9747,
+            "longitude": 59.6233
+        },
+        {
+            "name": "کلات",
+            "latitude": 36.9978,
+            "longitude": 59.7516
+        },
+        {
+            "name": "طرقبه",
+            "latitude": 36.3167,
+            "longitude": 59.3833
+        },
+        {
+            "name": "شاندیز",
+            "latitude": 36.3833,
+            "longitude": 59.3167
+        },
+        {
+            "name": "جغتای",
+            "latitude": 36.6333,
+            "longitude": 57.0667
+        },
+        {
+            "name": "جوین",
+            "latitude": 36.6333,
+            "longitude": 57.5167
+        },
+        {
+            "name": "داورزن",
+            "latitude": 36.3500,
+            "longitude": 56.8833
+        },
+        {
+            "name": "خلیل آباد",
+            "latitude": 35.2539,
+            "longitude": 58.2864
+        },
+        {
+            "name": "بجستان",
+            "latitude": 34.5167,
+            "longitude": 58.1833
+        },
+        {
+            "name": "زاوه",
+            "latitude": 35.2833,
+            "longitude": 59.4667
+        },
+        {
+            "name": "مه ولات",
+            "latitude": 35.0333,
+            "longitude": 58.7833
+        },
+        {
+            "name": "باخرز",
+            "latitude": 34.9833,
+            "longitude": 60.3167
+        },
+        {
+            "name": "گلبهار",
+            "latitude": 36.5833,
+            "longitude": 59.1833
+        },
+        {
+            "name": "نقاب",
+            "latitude": 36.7167,
+            "longitude": 57.4167
+        },
+        {
+            "name": "فیض آباد",
+            "latitude": 35.0167,
+            "longitude": 58.7833
+        },
+        {
+            "name": "سلطان آباد",
+            "latitude": 36.4000,
+            "longitude": 58.0333
+        },
+        {
+            "name": "بیدخت",
+            "latitude": 34.3500,
+            "longitude": 58.7667
+        },
+        {
+            "name": "بار",
+            "latitude": 36.4833,
+            "longitude": 58.8333
+        },
+        {
+            "name": "روداب",
+            "latitude": 36.0833,
+            "longitude": 57.3167
+        },
+        {
+            "name": "ششتمد",
+            "latitude": 36.1833,
+            "longitude": 57.4333
+        },
+        {
+            "name": "سلامی",
+            "latitude": 34.7333,
+            "longitude": 60.3167
+        },
+        {
+            "name": "سنگان",
+            "latitude": 34.4000,
+            "longitude": 60.2667
+        },
+        {
+            "name": "نصرآباد",
+            "latitude": 35.4167,
+            "longitude": 60.3167
+        },
+        {
+            "name": "صالح آباد",
+            "latitude": 35.6833,
+            "longitude": 61.0833
+        },
+        {
+            "name": "چکنه",
+            "latitude": 36.7667,
+            "longitude": 59.3167
+        },
+        {
+            "name": "مزداوند",
+            "latitude": 36.4667,
+            "longitude": 61.0667
+        },
+        {
+            "name": "نوخندان",
+            "latitude": 37.5167,
+            "longitude": 58.9833
+        },
+        {
+            "name": "قلندرآباد",
+            "latitude": 35.5833,
+            "longitude": 59.9667
+        },
+        {
+            "name": "کاریز",
+            "latitude": 34.9167,
+            "longitude": 60.8167
+        },
+        {
+            "name": "یونسی",
+            "latitude": 34.8167,
+            "longitude": 58.4333
+        },
+        {
+            "name": "همت آباد",
+            "latitude": 35.3167,
+            "longitude": 59.3167
+        },
+        {
+            "name": "شادمهر",
+            "latitude": 35.1667,
+            "longitude": 59.0333
+        },
+        {
+            "name": "کندر",
+            "latitude": 35.2167,
+            "longitude": 58.1833
+        },
+        {
+            "name": "رباط سنگ",
+            "latitude": 35.5333,
+            "longitude": 59.1833
+        },
+        {
+            "name": "سمیع آباد",
+            "latitude": 35.3167,
+            "longitude": 59.1333
+        },
+        {
+            "name": "جنگل",
+            "latitude": 34.9833,
+            "longitude": 59.3167
+        },
+        {
+            "name": "چاپشلو",
+            "latitude": 37.3833,
+            "longitude": 59.0667
+        },
+        {
+            "name": "لطف آباد",
+            "latitude": 37.5167,
+            "longitude": 59.3333
+        },
+        {
+            "name": "دولت آباد",
+            "latitude": 35.2833,
+            "longitude": 59.1167
+        },
+        {
+            "name": "احمدآباد صولت",
+            "latitude": 35.1167,
+            "longitude": 60.6833
+        },
+        {
+            "name": "رضویه",
+            "latitude": 36.2000,
+            "longitude": 59.7667
+        },
+        {
+            "name": "ملک آباد",
+            "latitude": 36.1167,
+            "longitude": 59.6167
+        },
+        {
+            "name": "سفید سنگ",
+            "latitude": 35.6667,
+            "longitude": 60.0667
+        },
+        {
+            "name": "فرهادگرد",
+            "latitude": 35.7333,
+            "longitude": 59.6167
+        },
+        {
+            "name": "قدمگاه",
+            "latitude": 36.1167,
+            "longitude": 59.0667
+        },
+        {
+            "name": "انابد",
+            "latitude": 35.2667,
+            "longitude": 57.8167
+        },
+        {
+            "name": "رکن آباد",
+            "latitude": 35.3833,
+            "longitude": 58.3167
+        },
+        {
+            "name": "خرو",
+            "latitude": 36.3167,
+            "longitude": 58.9833
+        },
+        {
+            "name": "عشق آباد",
+            "latitude": 36.1167,
+            "longitude": 58.6833
+        },
+        {
+            "name": "نیل شهر",
+            "latitude": 35.1333,
+            "longitude": 60.5833
+        },
+        {
+            "name": "حکم آباد",
+            "latitude": 35.3167,
+            "longitude": 60.6667
+        },
+        {
+            "name": "باجگیران",
+            "latitude": 37.6167,
+            "longitude": 58.4167
+        },
+        {
+            "name": "گیسوبالا",
+            "latitude": 36.9167,
+            "longitude": 59.8167
+        }
+    ],
+    "خراسان شمالی": [
+        {
+            "name": "بجنورد",
+            "latitude": 37.4747,
+            "longitude": 57.3290
+        },
+        {
+            "name": "شیروان",
+            "latitude": 37.3967,
+            "longitude": 57.9295
+        },
+        {
+            "name": "اسفراین",
+            "latitude": 37.0765,
+            "longitude": 57.5100
+        },
+        {
+            "name": "جاجرم",
+            "latitude": 36.9501,
+            "longitude": 56.5800
+        },
+        {
+            "name": "فاروج",
+            "latitude": 37.2312,
+            "longitude": 58.2189
+        },
+        {
+            "name": "مانه و سملقان",
+            "latitude": 37.5167,
+            "longitude": 56.9167
+        },
+        {
+            "name": "گرمه",
+            "latitude": 36.9833,
+            "longitude": 56.2833
+        },
+        {
+            "name": "راز و جرگلان",
+            "latitude": 37.9333,
+            "longitude": 57.1167
+        },
+        {
+            "name": "آشخانه",
+            "latitude": 37.5667,
+            "longitude": 56.9167
+        },
+        {
+            "name": "پیش قلعه",
+            "latitude": 37.6667,
+            "longitude": 56.8167
+        },
+        {
+            "name": "قوشخانه",
+            "latitude": 37.3833,
+            "longitude": 57.7333
+        },
+        {
+            "name": "چناران شهر",
+            "latitude": 37.3167,
+            "longitude": 57.6167
+        },
+        {
+            "name": "حصارگرمخان",
+            "latitude": 37.5167,
+            "longitude": 57.4833
+        },
+        {
+            "name": "راز",
+            "latitude": 37.9333,
+            "longitude": 57.1167
+        },
+        {
+            "name": "درق",
+            "latitude": 36.9667,
+            "longitude": 56.2167
+        },
+        {
+            "name": "ایور",
+            "latitude": 37.0333,
+            "longitude": 56.3167
+        },
+        {
+            "name": "سنخواست",
+            "latitude": 37.0833,
+            "longitude": 56.8333
+        },
+        {
+            "name": "تیتکانلو",
+            "latitude": 37.2667,
+            "longitude": 58.2833
+        },
+        {
+            "name": "صفی آباد",
+            "latitude": 37.2167,
+            "longitude": 57.3167
+        },
+        {
+            "name": "لوجلی",
+            "latitude": 37.3167,
+            "longitude": 57.9833
+        },
+        {
+            "name": "شوقان",
+            "latitude": 37.0333,
+            "longitude": 56.9167
+        },
+        {
+            "name": "قاضی",
+            "latitude": 37.8667,
+            "longitude": 57.3167
+        },
+        {
+            "name": "غلامان",
+            "latitude": 38.0667,
+            "longitude": 57.1167
+        },
+        {
+            "name": "آوا",
+            "latitude": 37.1167,
+            "longitude": 57.4667
+        },
+        {
+            "name": "چرمه",
+            "latitude": 37.3833,
+            "longitude": 57.3167
+        }
+    ],
+    "خوزستان": [
+        {
+            "name": "اهواز",
+            "latitude": 31.3183,
+            "longitude": 48.6706
+        },
+        {
+            "name": "آبادان",
+            "latitude": 30.3392,
+            "longitude": 48.3043
+        },
+        {
+            "name": "الهایی",
+            "latitude": 31.6572,
+            "longitude": 48.5934
+        },
+        {
+            "name": "جنت مکان",
+            "latitude": 32.1837,
+            "longitude": 48.8144
+        },
+        {
+            "name": "صالح شهر",
+            "latitude": 32.3811,
+            "longitude": 48.3974
+        },
+        {
+            "name": "چغامیش",
+            "latitude": 32.2088,
+            "longitude": 48.5449
+        },
+        {
+            "name": "منصوریه",
+            "latitude": 32.2088,
+            "longitude": 48.5449
+        },
+        {
+            "name": "خرمشهر",
+            "latitude": 30.4256,
+            "longitude": 48.1664
+        },
+        {
+            "name": "دزفول",
+            "latitude": 32.3814,
+            "longitude": 48.4018
+        },
+        {
+            "name": "شوشتر",
+            "latitude": 32.0497,
+            "longitude": 48.8497
+        },
+        {
+            "name": "اندیمشک",
+            "latitude": 32.4606,
+            "longitude": 48.3592
+        },
+        {
+            "name": "بهبهان",
+            "latitude": 30.5959,
+            "longitude": 50.2417
+        },
+        {
+            "name": "زاووت",
+            "latitude": 32.4033,
+            "longitude": 49.6895
+        },
+        {
+            "name": "شادگان",
+            "latitude": 30.6492,
+            "longitude": 48.6647
+        },
+        {
+            "name": "سوسنگرد",
+            "latitude": 31.5635,
+            "longitude": 48.1835
+        },
+        {
+            "name": "ماهشهر",
+            "latitude": 30.5589,
+            "longitude": 49.1880
+        },
+        {
+            "name": "ایذه",
+            "latitude": 31.8349,
+            "longitude": 49.8673
+        },
+        {
+            "name": "رامهرمز",
+            "latitude": 31.2800,
+            "longitude": 49.6035
+        },
+        {
+            "name": "باغملک",
+            "latitude": 31.5231,
+            "longitude": 49.8895
+        },
+        {
+            "name": "هویزه",
+            "latitude": 31.4619,
+            "longitude": 48.0758
+        },
+        {
+            "name": "شوش",
+            "latitude": 32.1942,
+            "longitude": 48.2436
+        },
+        {
+            "name": "هندیجان",
+            "latitude": 30.2363,
+            "longitude": 50.6215
+        },
+        {
+            "name": "امیدیه",
+            "latitude": 30.7458,
+            "longitude": 49.7086
+        },
+        {
+            "name": "رامشیر",
+            "latitude": 30.8931,
+            "longitude": 49.4079
+        },
+        {
+            "name": "گتوند",
+            "latitude": 32.2511,
+            "longitude": 48.8161
+        },
+        {
+            "name": "مسجدسلیمان",
+            "latitude": 31.9364,
+            "longitude": 49.3039
+        },
+        {
+            "name": "اندیکا",
+            "latitude": 32.1833,
+            "longitude": 49.4333
+        },
+        {
+            "name": "لالی",
+            "latitude": 32.3288,
+            "longitude": 49.0925
+        },
+        {
+            "name": "هفتکل",
+            "latitude": 31.4429,
+            "longitude": 49.5318
+        },
+        {
+            "name": "دشت آزادگان",
+            "latitude": 31.5583,
+            "longitude": 48.1833
+        },
+        {
+            "name": "باوی",
+            "latitude": 31.4833,
+            "longitude": 48.8833
+        },
+        {
+            "name": "حمیدیه",
+            "latitude": 31.4814,
+            "longitude": 48.4331
+        },
+        {
+            "name": "کارون",
+            "latitude": 31.2667,
+            "longitude": 48.6333
+        },
+        {
+            "name": "بندر امام خمینی",
+            "latitude": 30.4333,
+            "longitude": 49.0833
+        },
+        {
+            "name": "چمران",
+            "latitude": 30.7000,
+            "longitude": 49.1667
+        },
+        {
+            "name": "ملاثانی",
+            "latitude": 31.5833,
+            "longitude": 48.8833
+        },
+        {
+            "name": "ویس",
+            "latitude": 31.4833,
+            "longitude": 48.8667
+        },
+        {
+            "name": "کوت عبدالله",
+            "latitude": 31.2333,
+            "longitude": 48.6667
+        },
+        {
+            "name": "قلعه خواجه",
+            "latitude": 32.3167,
+            "longitude": 48.3167
+        },
+        {
+            "name": "صفی آباد",
+            "latitude": 32.3167,
+            "longitude": 48.4333
+        },
+        {
+            "name": "شاوور",
+            "latitude": 32.0667,
+            "longitude": 48.3167
+        },
+        {
+            "name": "الوان",
+            "latitude": 32.1833,
+            "longitude": 48.3167
+        },
+        {
+            "name": "حسینیه",
+            "latitude": 32.6833,
+            "longitude": 48.3167
+        },
+        {
+            "name": "ترکالکی",
+            "latitude": 32.3167,
+            "longitude": 48.8167
+        },
+        {
+            "name": "سماله",
+            "latitude": 31.3167,
+            "longitude": 48.3167
+        },
+        {
+            "name": "بستان",
+            "latitude": 31.7167,
+            "longitude": 47.9833
+        },
+        {
+            "name": "رفیش",
+            "latitude": 31.6167,
+            "longitude": 48.0167
+        },
+        {
+            "name": "مینوشهر",
+            "latitude": 30.3500,
+            "longitude": 48.2167
+        },
+        {
+            "name": "اروندکنار",
+            "latitude": 30.0667,
+            "longitude": 48.5167
+        },
+        {
+            "name": "چوئبده",
+            "latitude": 30.1833,
+            "longitude": 48.5667
+        },
+        {
+            "name": "مقاومت",
+            "latitude": 30.3167,
+            "longitude": 48.1833
+        },
+        {
+            "name": "دارخوین",
+            "latitude": 30.6833,
+            "longitude": 48.4333
+        },
+        {
+            "name": "زهره",
+            "latitude": 30.3833,
+            "longitude": 50.1167
+        },
+        {
+            "name": "سردشت",
+            "latitude": 30.8167,
+            "longitude": 50.3833
+        },
+        {
+            "name": "آغاجاری",
+            "latitude": 30.7000,
+            "longitude": 49.8167
+        },
+        {
+            "name": "جایزان",
+            "latitude": 30.8667,
+            "longitude": 49.8667
+        },
+        {
+            "name": "صیدون",
+            "latitude": 31.3833,
+            "longitude": 50.0167
+        },
+        {
+            "name": "میانرود",
+            "latitude": 32.3167,
+            "longitude": 48.4333
+        },
+        {
+            "name": "سالند",
+            "latitude": 32.3167,
+            "longitude": 48.8167
+        },
+        {
+            "name": "تشان",
+            "latitude": 30.6333,
+            "longitude": 50.0833
+        },
+        {
+            "name": "قلعه تل",
+            "latitude": 31.6167,
+            "longitude": 49.8833
+        },
+        {
+            "name": "رغیوه",
+            "latitude": 31.2667,
+            "longitude": 48.3167
+        },
+        {
+            "name": "شیبان",
+            "latitude": 31.4167,
+            "longitude": 48.7833
+        },
+        {
+            "name": "حر",
+            "latitude": 31.6167,
+            "longitude": 48.3167
+        },
+        {
+            "name": "فتح المبین",
+            "latitude": 32.3167,
+            "longitude": 48.3167
+        },
+        {
+            "name": "کوت سیدنعیم",
+            "latitude": 31.6667,
+            "longitude": 48.3167
+        },
+        {
+            "name": "ابوحمیظه",
+            "latitude": 31.5333,
+            "longitude": 48.2167
+        },
+        {
+            "name": "گوریه",
+            "latitude": 32.2833,
+            "longitude": 48.7667
+        }
+    ],
+    "زنجان": [
+        {
+            "name": "زنجان",
+            "latitude": 36.6764,
+            "longitude": 48.4963
+        },
+        {
+            "name": "ابهر",
+            "latitude": 36.1468,
+            "longitude": 49.2180
+        },
+        {
+            "name": "خرمدره",
+            "latitude": 36.2089,
+            "longitude": 49.1915
+        },
+        {
+            "name": "سلطانیه",
+            "latitude": 36.4351,
+            "longitude": 48.7940
+        },
+        {
+            "name": "طارم",
+            "latitude": 36.9500,
+            "longitude": 48.9167
+        },
+        {
+            "name": "ماه نشان",
+            "latitude": 36.7333,
+            "longitude": 47.6667
+        },
+        {
+            "name": "خدابنده",
+            "latitude": 36.1167,
+            "longitude": 48.5833
+        },
+        {
+            "name": "ایجرود",
+            "latitude": 36.4167,
+            "longitude": 48.3167
+        },
+        {
+            "name": "قیدار",
+            "latitude": 36.1167,
+            "longitude": 48.5833
+        },
+        {
+            "name": "زرین آباد",
+            "latitude": 36.4167,
+            "longitude": 48.2833
+        },
+        {
+            "name": "هیدج",
+            "latitude": 36.2500,
+            "longitude": 49.1333
+        },
+        {
+            "name": "صائین قلعه",
+            "latitude": 36.3167,
+            "longitude": 49.0667
+        },
+        {
+            "name": "چورزق",
+            "latitude": 37.1167,
+            "longitude": 48.7833
+        },
+        {
+            "name": "آب بر",
+            "latitude": 36.9333,
+            "longitude": 48.9667
+        },
+        {
+            "name": "دندی",
+            "latitude": 36.5833,
+            "longitude": 47.6167
+        },
+        {
+            "name": "حلب",
+            "latitude": 36.3167,
+            "longitude": 48.0667
+        },
+        {
+            "name": "سجاس",
+            "latitude": 36.2333,
+            "longitude": 48.5667
+        },
+        {
+            "name": "سهرورد",
+            "latitude": 36.0667,
+            "longitude": 48.4333
+        },
+        {
+            "name": "کرسف",
+            "latitude": 36.0167,
+            "longitude": 48.6167
+        },
+        {
+            "name": "گرماب",
+            "latitude": 35.8333,
+            "longitude": 48.5667
+        },
+        {
+            "name": "نوربهار",
+            "latitude": 36.3167,
+            "longitude": 49.1833
+        },
+        {
+            "name": "زرین رود",
+            "latitude": 36.3167,
+            "longitude": 49.3167
+        },
+        {
+            "name": "ارمغانخانه",
+            "latitude": 36.9167,
+            "longitude": 48.3833
+        },
+        {
+            "name": "نیک پی",
+            "latitude": 36.6667,
+            "longitude": 48.1833
+        },
+        {
+            "name": "قره پشتلو",
+            "latitude": 36.8833,
+            "longitude": 48.3167
+        }
+    ],
+    "سمنان": [
+        {
+            "name": "سمنان",
+            "latitude": 35.5769,
+            "longitude": 53.3921
+        },
+        {
+            "name": "شاهرود",
+            "latitude": 36.4182,
+            "longitude": 54.9763
+        },
+        {
+            "name": "دامغان",
+            "latitude": 36.1683,
+            "longitude": 54.3429
+        },
+        {
+            "name": "گرمسار",
+            "latitude": 35.2182,
+            "longitude": 52.3409
+        },
+        {
+            "name": "مهدی شهر",
+            "latitude": 35.7000,
+            "longitude": 53.3500
+        },
+        {
+            "name": "سرخه",
+            "latitude": 35.4667,
+            "longitude": 53.2167
+        },
+        {
+            "name": "میامی",
+            "latitude": 36.4167,
+            "longitude": 55.6500
+        },
+        {
+            "name": "آرادان",
+            "latitude": 35.2500,
+            "longitude": 52.5000
+        },
+        {
+            "name": "بسطام",
+            "latitude": 36.4833,
+            "longitude": 55.0000
+        },
+        {
+            "name": "مجن",
+            "latitude": 36.4833,
+            "longitude": 54.6667
+        },
+        {
+            "name": "بیارجمند",
+            "latitude": 36.0833,
+            "longitude": 55.8167
+        },
+        {
+            "name": "ایوانکی",
+            "latitude": 35.3500,
+            "longitude": 52.0667
+        },
+        {
+            "name": "شهمیرزاد",
+            "latitude": 35.7667,
+            "longitude": 53.3333
+        },
+        {
+            "name": "کلاته خیج",
+            "latitude": 36.6667,
+            "longitude": 55.3167
+        },
+        {
+            "name": "دیباج",
+            "latitude": 36.4167,
+            "longitude": 54.2167
+        },
+        {
+            "name": "درجزین",
+            "latitude": 35.6667,
+            "longitude": 53.3333
+        },
+        {
+            "name": "رودیان",
+            "latitude": 36.3167,
+            "longitude": 55.3167
+        },
+        {
+            "name": "امیریه",
+            "latitude": 36.0333,
+            "longitude": 54.3167
+        },
+        {
+            "name": "کهن آباد",
+            "latitude": 35.3167,
+            "longitude": 52.6667
+        },
+        {
+            "name": "موسیان",
+            "latitude": 36.3167,
+            "longitude": 54.6667
+        },
+        {
+            "name": "رضوان",
+            "latitude": 36.3167,
+            "longitude": 55.6667
+        },
+        {
+            "name": "چاشم",
+            "latitude": 35.8167,
+            "longitude": 53.3833
+        },
+        {
+            "name": "فورومد",
+            "latitude": 36.6167,
+            "longitude": 56.1167
+        },
+        {
+            "name": "کلاته",
+            "latitude": 35.4167,
+            "longitude": 52.3167
+        }
+    ],
+    "سیستان و بلوچستان": [
+        {
+            "name": "زاهدان",
+            "latitude": 29.4963,
+            "longitude": 60.8629
+        },
+        {
+            "name": "زابل",
+            "latitude": 31.0287,
+            "longitude": 61.5012
+        },
+        {
+            "name": "هیدوچ",
+            "latitude": 26.9999,
+            "longitude": 62.1166
+        },
+        {
+            "name": "ایرانشهر",
+            "latitude": 27.2025,
+            "longitude": 60.6848
+        },
+        {
+            "name": "چابهار",
+            "latitude": 25.2919,
+            "longitude": 60.6430
+        },
+        {
+            "name": "سراوان",
+            "latitude": 27.3709,
+            "longitude": 62.3342
+        },
+        {
+            "name": "خاش",
+            "latitude": 28.2211,
+            "longitude": 61.2158
+        },
+        {
+            "name": "کنارک",
+            "latitude": 25.3616,
+            "longitude": 60.3995
+        },
+        {
+            "name": "نیکشهر",
+            "latitude": 26.2258,
+            "longitude": 60.2143
+        },
+        {
+            "name": "راسک",
+            "latitude": 26.2368,
+            "longitude": 61.3990
+        },
+        {
+            "name": "قصرقند",
+            "latitude": 26.2333,
+            "longitude": 60.7500
+        },
+        {
+            "name": "هیرمند",
+            "latitude": 31.1500,
+            "longitude": 61.6667
+        },
+        {
+            "name": "زابلی",
+            "latitude": 31.0333,
+            "longitude": 61.6667
+        },
+        {
+            "name": "میرجاوه",
+            "latitude": 29.0167,
+            "longitude": 61.4500
+        },
+        {
+            "name": "فنوج",
+            "latitude": 26.5833,
+            "longitude": 59.6333
+        },
+        {
+            "name": "دلگان",
+            "latitude": 27.4833,
+            "longitude": 59.4667
+        },
+        {
+            "name": "هامون",
+            "latitude": 30.9167,
+            "longitude": 61.4167
+        },
+        {
+            "name": "نیمروز",
+            "latitude": 31.1167,
+            "longitude": 61.4167
+        },
+        {
+            "name": "سیب و سوران",
+            "latitude": 27.5333,
+            "longitude": 62.0833
+        },
+        {
+            "name": "مهرستان",
+            "latitude": 27.1333,
+            "longitude": 61.6667
+        },
+        {
+            "name": "بمپور",
+            "latitude": 27.1833,
+            "longitude": 60.4667
+        },
+        {
+            "name": "اسپکه",
+            "latitude": 26.8333,
+            "longitude": 60.1667
+        },
+        {
+            "name": "جالق",
+            "latitude": 27.6167,
+            "longitude": 62.7167
+        },
+        {
+            "name": "گشت",
+            "latitude": 27.7167,
+            "longitude": 62.3167
+        },
+        {
+            "name": "محمدان",
+            "latitude": 27.3167,
+            "longitude": 62.3167
+        },
+        {
+            "name": "نصرت آباد",
+            "latitude": 29.8667,
+            "longitude": 59.9833
+        },
+        {
+            "name": "بنت",
+            "latitude": 26.3167,
+            "longitude": 59.5333
+        },
+        {
+            "name": "پیشین",
+            "latitude": 26.0833,
+            "longitude": 61.7667
+        },
+        {
+            "name": "دوست محمد",
+            "latitude": 31.1333,
+            "longitude": 61.7833
+        },
+        {
+            "name": "زرآباد",
+            "latitude": 25.5833,
+            "longitude": 59.3833
+        },
+        {
+            "name": "سرباز",
+            "latitude": 26.6333,
+            "longitude": 61.2500
+        },
+        {
+            "name": "نگور",
+            "latitude": 25.3833,
+            "longitude": 61.1333
+        },
+        {
+            "name": "محمدی",
+            "latitude": 30.9833,
+            "longitude": 61.3167
+        },
+        {
+            "name": "علی اکبر",
+            "latitude": 31.3167,
+            "longitude": 61.6167
+        },
+        {
+            "name": "لوتک",
+            "latitude": 29.6167,
+            "longitude": 61.3167
+        },
+        {
+            "name": "پارود",
+            "latitude": 26.3167,
+            "longitude": 61.3167
+        },
+        {
+            "name": "بريس",
+            "latitude": 25.0833,
+            "longitude": 61.1833
+        },
+        {
+            "name": "چاه بهار",
+            "latitude": 25.3167,
+            "longitude": 60.6333
+        },
+        {
+            "name": "اسماعیل کلک",
+            "latitude": 27.3167,
+            "longitude": 61.3167
+        },
+        {
+            "name": "سوران",
+            "latitude": 27.3167,
+            "longitude": 62.0167
+        },
+        {
+            "name": "گوهر کوه",
+            "latitude": 28.3167,
+            "longitude": 61.3167
+        },
+        {
+            "name": "باهوکلات",
+            "latitude": 25.8667,
+            "longitude": 61.4167
+        },
+        {
+            "name": "نوک آباد",
+            "latitude": 28.5404,
+            "longitude": 60.7605
+        },
+        {
+            "name": "پسابندر",
+            "latitude": 25.0833,
+            "longitude": 61.3833
+        },
+        {
+            "name": "تيس",
+            "latitude": 25.3667,
+            "longitude": 60.6167
+        },
+        {
+            "name": "آشار",
+            "latitude": 27.3167,
+            "longitude": 61.9167
+        },
+        {
+            "name": "کتیج",
+            "latitude": 26.6167,
+            "longitude": 59.5167
+        },
+        {
+            "name": "هودیان",
+            "latitude": 26.3167,
+            "longitude": 60.3167
+        },
+        {
+            "name": "محمدآباد",
+            "latitude": 31.3167,
+            "longitude": 61.3167
+        },
+        {
+            "name": "قلعه نو",
+            "latitude": 30.5833,
+            "longitude": 61.3167
+        },
+        {
+            "name": "گلمورتی",
+            "latitude": 27.4833,
+            "longitude": 59.4667
+        }
+    ],
+    "فارس": [
+        {
+            "name": "شیراز",
+            "latitude": 29.5916,
+            "longitude": 52.5836
+        },
+        {
+            "name": "مرودشت",
+            "latitude": 29.8742,
+            "longitude": 52.8025
+        },
+        {
+            "name": "جهرم",
+            "latitude": 28.5000,
+            "longitude": 53.5600
+        },
+        {
+            "name": "فسا",
+            "latitude": 28.9383,
+            "longitude": 53.6482
+        },
+        {
+            "name": "کازرون",
+            "latitude": 29.6195,
+            "longitude": 51.6542
+        },
+        {
+            "name": "داراب",
+            "latitude": 28.7519,
+            "longitude": 54.5444
+        },
+        {
+            "name": "لار",
+            "latitude": 27.6562,
+            "longitude": 54.2880
+        },
+        {
+            "name": "آباده",
+            "latitude": 31.1608,
+            "longitude": 52.6506
+        },
+        {
+            "name": "استهبان",
+            "latitude": 29.1266,
+            "longitude": 54.0410
+        },
+        {
+            "name": "اقلید",
+            "latitude": 30.8989,
+            "longitude": 52.6866
+        },
+        {
+            "name": "اوز",
+            "latitude": 27.7134,
+            "longitude": 54.3170
+        },
+        {
+            "name": "بختگان",
+            "latitude": 29.5970,
+            "longitude": 53.8470
+        },
+        {
+            "name": "بوانات",
+            "latitude": 30.4828,
+            "longitude": 53.5896
+        },
+        {
+            "name": "بیضا",
+            "latitude": 29.9710,
+            "longitude": 52.3570
+        },
+        {
+            "name": "پاسارگاد",
+            "latitude": 30.2036,
+            "longitude": 53.1792
+        },
+        {
+            "name": "جویم",
+            "latitude": 28.2560,
+            "longitude": 53.9730
+        },
+        {
+            "name": "خرامه",
+            "latitude": 29.5030,
+            "longitude": 53.3130
+        },
+        {
+            "name": "خرم بید",
+            "latitude": 30.6530,
+            "longitude": 53.0980
+        },
+        {
+            "name": "خفر",
+            "latitude": 28.9270,
+            "longitude": 53.2150
+        },
+        {
+            "name": "خنج",
+            "latitude": 27.8887,
+            "longitude": 53.4274
+        },
+        {
+            "name": "رستم",
+            "latitude": 30.2670,
+            "longitude": 51.5260
+        },
+        {
+            "name": "زرقان",
+            "latitude": 29.7750,
+            "longitude": 52.6900
+        },
+        {
+            "name": "زرین دشت",
+            "latitude": 28.3540,
+            "longitude": 54.4170
+        },
+        {
+            "name": "سپیدان",
+            "latitude": 30.2425,
+            "longitude": 51.9910
+        },
+        {
+            "name": "سرچهان",
+            "latitude": 30.1830,
+            "longitude": 53.8530
+        },
+        {
+            "name": "سروستان",
+            "latitude": 29.2720,
+            "longitude": 53.2220
+        },
+        {
+            "name": "فراشبند",
+            "latitude": 28.8710,
+            "longitude": 52.0910
+        },
+        {
+            "name": "فیروزآباد",
+            "latitude": 28.8438,
+            "longitude": 52.5707
+        },
+        {
+            "name": "قیر و کارزین",
+            "latitude": 28.4270,
+            "longitude": 52.9780
+        },
+        {
+            "name": "کوار",
+            "latitude": 29.1970,
+            "longitude": 52.6900
+        },
+        {
+            "name": "کوه چنار",
+            "latitude": 29.7670,
+            "longitude": 51.6170
+        },
+        {
+            "name": "گراش",
+            "latitude": 27.6623,
+            "longitude": 54.1509
+        },
+        {
+            "name": "لامرد",
+            "latitude": 27.3278,
+            "longitude": 53.1845
+        },
+        {
+            "name": "ممسنی",
+            "latitude": 30.0600,
+            "longitude": 51.5270
+        },
+        {
+            "name": "مهر",
+            "latitude": 27.5560,
+            "longitude": 52.8850
+        },
+        {
+            "name": "نی ریز",
+            "latitude": 29.1980,
+            "longitude": 54.3270
+        },
+        {
+            "name": "ارسنجان",
+            "latitude": 29.9120,
+            "longitude": 53.3090
+        },
+        {
+            "name": "صدرا",
+            "latitude": 29.8167,
+            "longitude": 52.5167
+        },
+        {
+            "name": "دودج",
+            "latitude": 28.7500,
+            "longitude": 54.5833
+        },
+        {
+            "name": "باب انار",
+            "latitude": 28.9833,
+            "longitude": 53.6167
+        },
+        {
+            "name": "حاجی آباد",
+            "latitude": 28.3570,
+            "longitude": 54.4240
+        },
+        {
+            "name": "دبیران",
+            "latitude": 28.3833,
+            "longitude": 54.4667
+        },
+        {
+            "name": "شهر پیر",
+            "latitude": 28.3167,
+            "longitude": 54.3167
+        },
+        {
+            "name": "قطب آباد",
+            "latitude": 28.4667,
+            "longitude": 53.5333
+        },
+        {
+            "name": "خوزی",
+            "latitude": 28.5333,
+            "longitude": 53.5833
+        },
+        {
+            "name": "مصیری",
+            "latitude": 30.0667,
+            "longitude": 51.5167
+        },
+        {
+            "name": "نورآباد",
+            "latitude": 30.1167,
+            "longitude": 51.5333
+        },
+        {
+            "name": "کنارتخته",
+            "latitude": 29.5167,
+            "longitude": 51.3833
+        },
+        {
+            "name": "خشت",
+            "latitude": 29.5667,
+            "longitude": 51.3667
+        },
+        {
+            "name": "دژکرد",
+            "latitude": 30.7167,
+            "longitude": 52.4667
+        },
+        {
+            "name": "بهمن",
+            "latitude": 31.1833,
+            "longitude": 52.6667
+        },
+        {
+            "name": "سورمق",
+            "latitude": 31.0333,
+            "longitude": 52.8333
+        },
+        {
+            "name": "ایزدخواست",
+            "latitude": 31.5167,
+            "longitude": 52.1333
+        },
+        {
+            "name": "نوجین",
+            "latitude": 28.9667,
+            "longitude": 52.0333
+        },
+        {
+            "name": "دهرم",
+            "latitude": 28.9833,
+            "longitude": 52.3167
+        },
+        {
+            "name": "قادرآباد",
+            "latitude": 30.2667,
+            "longitude": 53.2333
+        },
+        {
+            "name": "سعادت شهر",
+            "latitude": 30.0833,
+            "longitude": 53.1333
+        },
+        {
+            "name": "مادرسلیمان",
+            "latitude": 30.1667,
+            "longitude": 53.0667
+        },
+        {
+            "name": "سیوند",
+            "latitude": 30.0833,
+            "longitude": 52.9833
+        },
+        {
+            "name": "کوپن",
+            "latitude": 30.3333,
+            "longitude": 51.6667
+        },
+        {
+            "name": "اردکان",
+            "latitude": 30.2667,
+            "longitude": 51.9833
+        },
+        {
+            "name": "میانشهر",
+            "latitude": 28.9167,
+            "longitude": 52.6667
+        },
+        {
+            "name": "کوچک",
+            "latitude": 28.8833,
+            "longitude": 52.6333
+        },
+        {
+            "name": "امام شهر",
+            "latitude": 28.4500,
+            "longitude": 53.1500
+        },
+        {
+            "name": "افزر",
+            "latitude": 28.3833,
+            "longitude": 53.0833
+        },
+        {
+            "name": "علامرودشت",
+            "latitude": 27.6256,
+            "longitude": 52.9989
+        },
+        {
+            "name": "اشکنان",
+            "latitude": 27.2333,
+            "longitude": 53.6000
+        },
+        {
+            "name": "بنارویه",
+            "latitude": 28.1126,
+            "longitude": 54.1054
+        },
+        {
+            "name": "بیرم",
+            "latitude": 27.4315,
+            "longitude": 53.5115
+        },
+        {
+            "name": "جویم لارستان",
+            "latitude": 27.8833,
+            "longitude": 53.9667
+        },
+        {
+            "name": "عمادده",
+            "latitude": 27.5667,
+            "longitude": 53.3167
+        },
+        {
+            "name": "وراوی",
+            "latitude": 27.4667,
+            "longitude": 53.0500
+        },
+        {
+            "name": "گله دار",
+            "latitude": 27.6667,
+            "longitude": 52.6667
+        },
+        {
+            "name": "خور",
+            "latitude": 27.6333,
+            "longitude": 54.3333
+        },
+        {
+            "name": "لات شهر",
+            "latitude": 27.6833,
+            "longitude": 54.3167
+        },
+        {
+            "name": "هرم",
+            "latitude": 28.3167,
+            "longitude": 54.0333
+        },
+        {
+            "name": "بالاده",
+            "latitude": 29.3833,
+            "longitude": 51.6667
+        },
+        {
+            "name": "خانه زنیان",
+            "latitude": 29.6667,
+            "longitude": 52.1333
+        },
+        {
+            "name": "دشت ارژن",
+            "latitude": 29.6667,
+            "longitude": 51.9833
+        },
+        {
+            "name": "زرین شهر",
+            "latitude": 29.7167,
+            "longitude": 52.6667
+        },
+        {
+            "name": "لپویی",
+            "latitude": 29.7833,
+            "longitude": 52.6667
+        },
+        {
+            "name": "کامفیروز",
+            "latitude": 30.3167,
+            "longitude": 52.1667
+        },
+        {
+            "name": "بیضاء",
+            "latitude": 30.0000,
+            "longitude": 52.1833
+        },
+        {
+            "name": "هماشهر",
+            "latitude": 30.2667,
+            "longitude": 52.0833
+        },
+        {
+            "name": "حسامی",
+            "latitude": 30.5667,
+            "longitude": 53.3167
+        },
+        {
+            "name": "مشکان",
+            "latitude": 29.4667,
+            "longitude": 54.3167
+        },
+        {
+            "name": "آباده طشک",
+            "latitude": 29.8167,
+            "longitude": 53.7333
+        },
+        {
+            "name": "قطروئیه",
+            "latitude": 29.1333,
+            "longitude": 54.6667
+        },
+        {
+            "name": "نودان",
+            "latitude": 29.8000,
+            "longitude": 51.7000
+        },
+        {
+            "name": "قائميه",
+            "latitude": 29.8500,
+            "longitude": 51.5833
+        },
+        {
+            "name": "سلطان شهر",
+            "latitude": 30.3167,
+            "longitude": 52.6667
+        },
+        {
+            "name": "رونیز",
+            "latitude": 29.1833,
+            "longitude": 54.0667
+        },
+        {
+            "name": "بهرغان",
+            "latitude": 30.3167,
+            "longitude": 52.0167
+        },
+        {
+            "name": "بیدشهر",
+            "latitude": 30.1833,
+            "longitude": 53.3167
+        },
+        {
+            "name": "ده شیر",
+            "latitude": 28.9667,
+            "longitude": 54.3167
+        },
+        {
+            "name": "ششده",
+            "latitude": 28.9667,
+            "longitude": 52.7667
+        },
+        {
+            "name": "فدامی",
+            "latitude": 28.8333,
+            "longitude": 54.5333
+        },
+        {
+            "name": "دوبرجی",
+            "latitude": 28.8167,
+            "longitude": 52.6667
+        },
+        {
+            "name": "رامجرد",
+            "latitude": 29.9333,
+            "longitude": 52.5667
+        },
+        {
+            "name": "کوهنجان",
+            "latitude": 29.2333,
+            "longitude": 52.9833
+        },
+        {
+            "name": "دوزه",
+            "latitude": 28.4833,
+            "longitude": 53.3167
+        },
+        {
+            "name": "خیرگو",
+            "latitude": 28.3833,
+            "longitude": 53.3167
+        },
+        {
+            "name": "مزایجان",
+            "latitude": 30.3167,
+            "longitude": 52.8333
+        },
+        {
+            "name": "بابامنیر",
+            "latitude": 30.3167,
+            "longitude": 51.5333
+        },
+        {
+            "name": "جهان آباد",
+            "latitude": 30.0333,
+            "longitude": 51.6667
+        },
+        {
+            "name": "چاه ورز",
+            "latitude": 27.3833,
+            "longitude": 53.3167
+        },
+        {
+            "name": "کارزین",
+            "latitude": 28.4333,
+            "longitude": 53.1167
+        },
+        {
+            "name": "مبارک آباد",
+            "latitude": 28.3667,
+            "longitude": 53.3167
+        },
+        {
+            "name": "فاروق",
+            "latitude": 29.6167,
+            "longitude": 52.8167
+        },
+        {
+            "name": "کوشکک",
+            "latitude": 29.7000,
+            "longitude": 52.5667
+        },
+        {
+            "name": "تنگ اب",
+            "latitude": 30.3167,
+            "longitude": 52.3167
+        },
+        {
+            "name": "حسن آباد",
+            "latitude": 29.8500,
+            "longitude": 53.3167
+        },
+        {
+            "name": "سده",
+            "latitude": 30.7167,
+            "longitude": 52.1667
+        },
+        {
+            "name": "ایگدر",
+            "latitude": 31.3167,
+            "longitude": 52.6667
+        },
+        {
+            "name": "حنافره",
+            "latitude": 30.3167,
+            "longitude": 51.6167
+        },
+        {
+            "name": "جره",
+            "latitude": 29.5833,
+            "longitude": 51.6667
+        },
+        {
+            "name": "خانیمن",
+            "latitude": 29.8333,
+            "longitude": 51.6667
+        },
+        {
+            "name": "انارستان",
+            "latitude": 28.3167,
+            "longitude": 53.3167
+        },
+        {
+            "name": "بندامیر",
+            "latitude": 29.9333,
+            "longitude": 52.8667
+        },
+        {
+            "name": "پرشک",
+            "latitude": 27.3667,
+            "longitude": 53.3167
+        },
+        {
+            "name": "کوهمره",
+            "latitude": 29.8333,
+            "longitude": 51.7667
+        }
+    ],
+    "قزوین": [
+        {
+            "name": "قزوین",
+            "latitude": 36.2688,
+            "longitude": 50.0041
+        },
+        {
+            "name": "تاکستان",
+            "latitude": 35.9950,
+            "longitude": 49.6950
+        },
+        {
+            "name": "بوئین زهرا",
+            "latitude": 35.7667,
+            "longitude": 50.0667
+        },
+        {
+            "name": "آبیک",
+            "latitude": 36.0400,
+            "longitude": 50.5310
+        },
+        {
+            "name": "الوند",
+            "latitude": 36.1833,
+            "longitude": 50.0667
+        },
+        {
+            "name": "آوج",
+            "latitude": 35.5833,
+            "longitude": 49.3167
+        },
+        {
+            "name": "محمدیه",
+            "latitude": 36.2333,
+            "longitude": 50.1833
+        },
+        {
+            "name": "اقبالیه",
+            "latitude": 36.2333,
+            "longitude": 50.1167
+        },
+        {
+            "name": "اسفرورین",
+            "latitude": 35.9833,
+            "longitude": 49.7667
+        },
+        {
+            "name": "شال",
+            "latitude": 35.9000,
+            "longitude": 49.7667
+        },
+        {
+            "name": "دانسفهان",
+            "latitude": 35.8167,
+            "longitude": 49.7167
+        },
+        {
+            "name": "رازمیان",
+            "latitude": 36.5333,
+            "longitude": 50.2167
+        },
+        {
+            "name": "معلم کلایه",
+            "latitude": 36.4500,
+            "longitude": 50.4833
+        },
+        {
+            "name": "کوهین",
+            "latitude": 36.3667,
+            "longitude": 49.6667
+        },
+        {
+            "name": "محمودآباد نمونه",
+            "latitude": 36.2833,
+            "longitude": 50.0833
+        },
+        {
+            "name": "ضیاء آباد",
+            "latitude": 35.9833,
+            "longitude": 49.4500
+        },
+        {
+            "name": "خرمدشت",
+            "latitude": 35.9167,
+            "longitude": 49.6167
+        },
+        {
+            "name": "آبگرم",
+            "latitude": 35.7500,
+            "longitude": 49.2833
+        },
+        {
+            "name": "بیدستان",
+            "latitude": 36.2167,
+            "longitude": 50.1333
+        },
+        {
+            "name": "خاکعلی",
+            "latitude": 36.1167,
+            "longitude": 50.1833
+        },
+        {
+            "name": "نرجه",
+            "latitude": 35.9667,
+            "longitude": 49.6167
+        },
+        {
+            "name": "سگزآباد",
+            "latitude": 35.7667,
+            "longitude": 49.9833
+        },
+        {
+            "name": "ارداق",
+            "latitude": 36.0500,
+            "longitude": 49.8167
+        },
+        {
+            "name": "سیردان",
+            "latitude": 36.6667,
+            "longitude": 50.3167
+        }
+    ],
+    "قم": [
+        {
+            "name": "قم",
+            "latitude": 34.6399,
+            "longitude": 50.8759
+        },
+        {
+            "name": "جعفریه",
+            "latitude": 34.7833,
+            "longitude": 50.5833
+        },
+        {
+            "name": "قنوات",
+            "latitude": 34.6000,
+            "longitude": 51.0333
+        },
+        {
+            "name": "کهک",
+            "latitude": 34.3833,
+            "longitude": 50.8833
+        },
+        {
+            "name": "دستجرد",
+            "latitude": 34.5500,
+            "longitude": 50.2500
+        },
+        {
+            "name": "سلفچگان",
+            "latitude": 34.4833,
+            "longitude": 50.4667
+        },
+        {
+            "name": "پردیسان",
+            "latitude": 34.6500,
+            "longitude": 50.7667
+        },
+        {
+            "name": "قمرود",
+            "latitude": 34.7167,
+            "longitude": 50.9167
+        }
+    ],
+    "کردستان": [
+        {
+            "name": "سنندج",
+            "latitude": 35.3140,
+            "longitude": 46.9988
+        },
+        {
+            "name": "سقز",
+            "latitude": 36.2492,
+            "longitude": 46.2738
+        },
+        {
+            "name": "مریوان",
+            "latitude": 35.5269,
+            "longitude": 46.1760
+        },
+        {
+            "name": "بانه",
+            "latitude": 35.9975,
+            "longitude": 45.8853
+        },
+        {
+            "name": "بیجار",
+            "latitude": 35.8668,
+            "longitude": 47.6051
+        },
+        {
+            "name": "قروه",
+            "latitude": 35.1670,
+            "longitude": 47.8038
+        },
+        {
+            "name": "کامیاران",
+            "latitude": 34.7956,
+            "longitude": 46.9355
+        },
+        {
+            "name": "دیواندره",
+            "latitude": 35.9139,
+            "longitude": 47.0250
+        },
+        {
+            "name": "سروآباد",
+            "latitude": 35.3125,
+            "longitude": 46.3333
+        },
+        {
+            "name": "دهگلان",
+            "latitude": 35.2780,
+            "longitude": 47.4194
+        },
+        {
+            "name": "موچش",
+            "latitude": 34.9667,
+            "longitude": 46.9833
+        },
+        {
+            "name": "زرینه",
+            "latitude": 36.0667,
+            "longitude": 46.9167
+        },
+        {
+            "name": "صاحب",
+            "latitude": 36.3167,
+            "longitude": 46.4667
+        },
+        {
+            "name": "بوئین سفلی",
+            "latitude": 35.9167,
+            "longitude": 45.9333
+        },
+        {
+            "name": "آرمرده",
+            "latitude": 36.0333,
+            "longitude": 45.8000
+        },
+        {
+            "name": "کانی دینار",
+            "latitude": 35.4833,
+            "longitude": 46.1833
+        },
+        {
+            "name": "برده رشه",
+            "latitude": 35.3167,
+            "longitude": 46.1333
+        },
+        {
+            "name": "چناره",
+            "latitude": 35.6167,
+            "longitude": 46.1167
+        },
+        {
+            "name": "دلبران",
+            "latitude": 35.2333,
+            "longitude": 47.6667
+        },
+        {
+            "name": "دزج",
+            "latitude": 35.0667,
+            "longitude": 47.9667
+        },
+        {
+            "name": "یاسوکند",
+            "latitude": 36.0167,
+            "longitude": 47.7333
+        },
+        {
+            "name": "بابارشانی",
+            "latitude": 35.6667,
+            "longitude": 47.8000
+        },
+        {
+            "name": "حسن آباد یاسوکند",
+            "latitude": 36.0500,
+            "longitude": 47.7500
+        },
+        {
+            "name": "شویشه",
+            "latitude": 35.3667,
+            "longitude": 46.8833
+        },
+        {
+            "name": "ننور",
+            "latitude": 35.9833,
+            "longitude": 45.9667
+        },
+        {
+            "name": "بلبان آباد",
+            "latitude": 35.2000,
+            "longitude": 47.3167
+        },
+        {
+            "name": "سریش آباد",
+            "latitude": 35.2500,
+            "longitude": 47.9833
+        },
+        {
+            "name": "کانی سور",
+            "latitude": 36.3167,
+            "longitude": 46.1167
+        },
+        {
+            "name": "اورامان تخت",
+            "latitude": 35.2500,
+            "longitude": 46.2667
+        },
+        {
+            "name": "پیرتاج",
+            "latitude": 35.8833,
+            "longitude": 47.6667
+        },
+        {
+            "name": "خورخوره",
+            "latitude": 36.3167,
+            "longitude": 46.3167
+        },
+        {
+            "name": "توپ آغاج",
+            "latitude": 35.7500,
+            "longitude": 47.6667
+        },
+        {
+            "name": "آویهنگ",
+            "latitude": 35.3167,
+            "longitude": 47.3167
+        }
+    ],
+    "کرمان": [
+        {
+            "name": "کرمان",
+            "latitude": 30.2832,
+            "longitude": 57.0834
+        },
+        {
+            "name": "رفسنجان",
+            "latitude": 30.4067,
+            "longitude": 55.9939
+        },
+        {
+            "name": "سیرجان",
+            "latitude": 29.4519,
+            "longitude": 55.6802
+        },
+        {
+            "name": "کیان شهر",
+            "latitude": 31.2333,
+            "longitude": 56.3999
+        },
+        {
+            "name": "جیرفت",
+            "latitude": 28.6751,
+            "longitude": 57.7406
+        },
+        {
+            "name": "بم",
+            "latitude": 29.1060,
+            "longitude": 58.3570
+        },
+        {
+            "name": "زید آباد",
+            "latitude": 29.5967,
+            "longitude": 55.5353
+        },
+        {
+            "name": "خانوک",
+            "latitude": 30.7175,
+            "longitude": 56.7715
+        },
+        {
+            "name": "زرند",
+            "latitude": 30.8127,
+            "longitude": 56.5639
+        },
+        {
+            "name": "کهنوج",
+            "latitude": 27.9466,
+            "longitude": 57.7025
+        },
+        {
+            "name": "شهربابک",
+            "latitude": 30.1165,
+            "longitude": 55.1185
+        },
+        {
+            "name": "بافت",
+            "latitude": 29.2330,
+            "longitude": 56.6022
+        },
+        {
+            "name": "بردسیر",
+            "latitude": 29.9275,
+            "longitude": 56.5722
+        },
+        {
+            "name": "رابر",
+            "latitude": 29.2850,
+            "longitude": 56.9120
+        },
+        {
+            "name": "ارزوئیه",
+            "latitude": 28.4500,
+            "longitude": 56.3667
+        },
+        {
+            "name": "انار",
+            "latitude": 30.8740,
+            "longitude": 55.2710
+        },
+        {
+            "name": "ریگان",
+            "latitude": 28.6500,
+            "longitude": 59.0000
+        },
+        {
+            "name": "فهرج",
+            "latitude": 28.9500,
+            "longitude": 58.8833
+        },
+        {
+            "name": "قلعه گنج",
+            "latitude": 27.5230,
+            "longitude": 57.8810
+        },
+        {
+            "name": "منوجان",
+            "latitude": 27.4060,
+            "longitude": 57.5010
+        },
+        {
+            "name": "کوهبنان",
+            "latitude": 31.4167,
+            "longitude": 56.2833
+        },
+        {
+            "name": "رودبار جنوب",
+            "latitude": 27.9833,
+            "longitude": 57.8833
+        },
+        {
+            "name": "عنبرآباد",
+            "latitude": 28.4750,
+            "longitude": 57.8480
+        },
+        {
+            "name": "فاریاب",
+            "latitude": 28.1000,
+            "longitude": 57.2333
+        },
+        {
+            "name": "نرماشیر",
+            "latitude": 28.9500,
+            "longitude": 58.7000
+        },
+        {
+            "name": "راور",
+            "latitude": 31.2656,
+            "longitude": 56.8055
+        },
+        {
+            "name": "گلباف",
+            "latitude": 29.8833,
+            "longitude": 57.7333
+        },
+        {
+            "name": "ماهان",
+            "latitude": 30.0610,
+            "longitude": 57.2950
+        },
+        {
+            "name": "چترود",
+            "latitude": 30.6167,
+            "longitude": 56.9167
+        },
+        {
+            "name": "جوپار",
+            "latitude": 30.0667,
+            "longitude": 57.1167
+        },
+        {
+            "name": "باغین",
+            "latitude": 30.1833,
+            "longitude": 56.8167
+        },
+        {
+            "name": "اندوهجرد",
+            "latitude": 30.2333,
+            "longitude": 57.7500
+        },
+        {
+            "name": "محی آباد",
+            "latitude": 30.1333,
+            "longitude": 57.3833
+        },
+        {
+            "name": "زنگی آباد",
+            "latitude": 30.4167,
+            "longitude": 56.9167
+        },
+        {
+            "name": "کاظم آباد",
+            "latitude": 30.5500,
+            "longitude": 56.8667
+        },
+        {
+            "name": "اختیارآباد",
+            "latitude": 30.3833,
+            "longitude": 56.9833
+        },
+        {
+            "name": "یزدان شهر",
+            "latitude": 30.8333,
+            "longitude": 56.3167
+        },
+        {
+            "name": "هجدک",
+            "latitude": 30.7667,
+            "longitude": 56.6000
+        },
+        {
+            "name": "خاتون آباد",
+            "latitude": 30.3167,
+            "longitude": 56.8833
+        },
+        {
+            "name": "نودژ",
+            "latitude": 27.3833,
+            "longitude": 57.3833
+        },
+        {
+            "name": "همت آباد",
+            "latitude": 31.3167,
+            "longitude": 56.6667
+        },
+        {
+            "name": "پاریز",
+            "latitude": 29.8833,
+            "longitude": 55.7500
+        },
+        {
+            "name": "خواجو شهر",
+            "latitude": 29.6667,
+            "longitude": 55.6667
+        },
+        {
+            "name": "نجف شهر",
+            "latitude": 29.3833,
+            "longitude": 55.7333
+        },
+        {
+            "name": "بلورد",
+            "latitude": 29.3000,
+            "longitude": 55.6667
+        },
+        {
+            "name": "خورسند",
+            "latitude": 30.1667,
+            "longitude": 55.0833
+        },
+        {
+            "name": "دهج",
+            "latitude": 30.7000,
+            "longitude": 54.8833
+        },
+        {
+            "name": "بهرمان",
+            "latitude": 30.9167,
+            "longitude": 55.9833
+        },
+        {
+            "name": "کشکوییه",
+            "latitude": 30.5333,
+            "longitude": 55.6667
+        },
+        {
+            "name": "مس سرچشمه",
+            "latitude": 30.0167,
+            "longitude": 55.8833
+        },
+        {
+            "name": "درب بهشت",
+            "latitude": 30.1167,
+            "longitude": 55.9833
+        },
+        {
+            "name": "راین",
+            "latitude": 29.6000,
+            "longitude": 57.4333
+        },
+        {
+            "name": "هماشهر",
+            "latitude": 28.0500,
+            "longitude": 57.5000
+        },
+        {
+            "name": "محمدآباد",
+            "latitude": 28.6667,
+            "longitude": 59.0833
+        },
+        {
+            "name": "مردهک",
+            "latitude": 28.3833,
+            "longitude": 57.9167
+        },
+        {
+            "name": "عنبرآباد",
+            "latitude": 28.4750,
+            "longitude": 57.8480
+        },
+        {
+            "name": "بلوک",
+            "latitude": 28.3167,
+            "longitude": 57.7667
+        },
+        {
+            "name": "جهان آباد",
+            "latitude": 28.6167,
+            "longitude": 57.9167
+        },
+        {
+            "name": "دوساری",
+            "latitude": 28.4833,
+            "longitude": 57.7667
+        },
+        {
+            "name": "جبالبارز",
+            "latitude": 28.9167,
+            "longitude": 57.8667
+        },
+        {
+            "name": "ساردوئیه",
+            "latitude": 29.0333,
+            "longitude": 57.3167
+        },
+        {
+            "name": "دره رود",
+            "latitude": 28.8000,
+            "longitude": 57.7167
+        },
+        {
+            "name": "فیروزآباد",
+            "latitude": 28.8667,
+            "longitude": 57.6167
+        },
+        {
+            "name": "دهکهان",
+            "latitude": 27.7500,
+            "longitude": 57.8833
+        },
+        {
+            "name": "برج معاذ",
+            "latitude": 27.6667,
+            "longitude": 57.8000
+        },
+        {
+            "name": "رودبار",
+            "latitude": 27.9833,
+            "longitude": 57.8833
+        },
+        {
+            "name": "زه کلوت",
+            "latitude": 27.8667,
+            "longitude": 58.6167
+        },
+        {
+            "name": "چاه دادخدا",
+            "latitude": 27.3667,
+            "longitude": 57.9167
+        },
+        {
+            "name": "گنبکی",
+            "latitude": 28.6667,
+            "longitude": 58.9167
+        },
+        {
+            "name": "حوزه",
+            "latitude": 28.9500,
+            "longitude": 58.3167
+        },
+        {
+            "name": "باغخونی",
+            "latitude": 29.2000,
+            "longitude": 58.3167
+        },
+        {
+            "name": "نظام شهر",
+            "latitude": 28.9167,
+            "longitude": 58.7833
+        },
+        {
+            "name": "خواجه عسکر",
+            "latitude": 29.1167,
+            "longitude": 58.3167
+        },
+        {
+            "name": "براوات",
+            "latitude": 29.0500,
+            "longitude": 58.3833
+        },
+        {
+            "name": "دشتکار",
+            "latitude": 29.3167,
+            "longitude": 58.3167
+        },
+        {
+            "name": "ارگ جدید",
+            "latitude": 29.0833,
+            "longitude": 58.3833
+        },
+        {
+            "name": "دولت آباد",
+            "latitude": 29.1667,
+            "longitude": 58.3167
+        },
+        {
+            "name": "شهداد",
+            "latitude": 30.4167,
+            "longitude": 57.7000
+        },
+        {
+            "name": "کشیت",
+            "latitude": 30.3167,
+            "longitude": 57.6667
+        },
+        {
+            "name": "جوشان",
+            "latitude": 30.3167,
+            "longitude": 57.4833
+        },
+        {
+            "name": "سیرچ",
+            "latitude": 30.2000,
+            "longitude": 57.5500
+        },
+        {
+            "name": "حسین آباد",
+            "latitude": 30.6667,
+            "longitude": 56.3167
+        },
+        {
+            "name": "فهرج",
+            "latitude": 28.9500,
+            "longitude": 58.8833
+        },
+        {
+            "name": "علی آباد",
+            "latitude": 28.9167,
+            "longitude": 58.8667
+        },
+        {
+            "name": "امین شهر",
+            "latitude": 30.8500,
+            "longitude": 55.3167
+        },
+        {
+            "name": "بیاض",
+            "latitude": 30.6833,
+            "longitude": 55.4333
+        },
+        {
+            "name": "خنامان",
+            "latitude": 30.5833,
+            "longitude": 55.9167
+        },
+        {
+            "name": "جرجافک",
+            "latitude": 27.8833,
+            "longitude": 57.7333
+        },
+        {
+            "name": "گروه",
+            "latitude": 29.1667,
+            "longitude": 57.4333
+        }
+    ],
+    "کرمانشاه": [
+        {
+            "name": "کرمانشاه",
+            "latitude": 34.3142,
+            "longitude": 47.0650
+        },
+        {
+            "name": "اسلام آباد غرب",
+            "latitude": 34.1109,
+            "longitude": 46.5275
+        },
+        {
+            "name": "کنگاور",
+            "latitude": 34.5016,
+            "longitude": 47.9653
+        },
+        {
+            "name": "سنقر",
+            "latitude": 34.7836,
+            "longitude": 47.5995
+        },
+        {
+            "name": "قصرشیرین",
+            "latitude": 34.5155,
+            "longitude": 45.5772
+        },
+        {
+            "name": "هرسین",
+            "latitude": 34.2719,
+            "longitude": 47.5861
+        },
+        {
+            "name": "صحنه",
+            "latitude": 34.6255,
+            "longitude": 47.6834
+        },
+        {
+            "name": "پاوه",
+            "latitude": 35.0434,
+            "longitude": 46.3565
+        },
+        {
+            "name": "دالاهو",
+            "latitude": 34.2833,
+            "longitude": 46.2500
+        },
+        {
+            "name": "جوانرود",
+            "latitude": 34.8067,
+            "longitude": 46.4915
+        },
+        {
+            "name": "ثلاث باباجانی",
+            "latitude": 34.7333,
+            "longitude": 46.1500
+        },
+        {
+            "name": "روانسر",
+            "latitude": 34.7167,
+            "longitude": 46.6500
+        },
+        {
+            "name": "سرپل ذهاب",
+            "latitude": 34.4611,
+            "longitude": 45.8626
+        },
+        {
+            "name": "گیلانغرب",
+            "latitude": 34.1421,
+            "longitude": 45.9203
+        },
+        {
+            "name": "حمیل",
+            "latitude": 33.9167,
+            "longitude": 46.7833
+        },
+        {
+            "name": "کوزران",
+            "latitude": 34.5000,
+            "longitude": 46.6000
+        },
+        {
+            "name": "گهواره",
+            "latitude": 34.3500,
+            "longitude": 46.4167
+        },
+        {
+            "name": "رباط",
+            "latitude": 34.2667,
+            "longitude": 46.8167
+        },
+        {
+            "name": "شاهو",
+            "latitude": 34.9333,
+            "longitude": 46.4167
+        },
+        {
+            "name": "ازگله",
+            "latitude": 34.8333,
+            "longitude": 45.8333
+        },
+        {
+            "name": "نوسود",
+            "latitude": 35.1667,
+            "longitude": 46.2000
+        },
+        {
+            "name": "نودشه",
+            "latitude": 35.1833,
+            "longitude": 46.2500
+        },
+        {
+            "name": "ریجاب",
+            "latitude": 34.4667,
+            "longitude": 46.1167
+        },
+        {
+            "name": "باینگان",
+            "latitude": 34.9833,
+            "longitude": 46.2667
+        },
+        {
+            "name": "سرمست",
+            "latitude": 34.0167,
+            "longitude": 46.0167
+        },
+        {
+            "name": "میان راهان",
+            "latitude": 34.6167,
+            "longitude": 47.4333
+        },
+        {
+            "name": "هلشی",
+            "latitude": 34.4333,
+            "longitude": 47.1167
+        },
+        {
+            "name": "سطر",
+            "latitude": 34.8667,
+            "longitude": 47.4333
+        },
+        {
+            "name": "بیستون",
+            "latitude": 34.3833,
+            "longitude": 47.4333
+        },
+        {
+            "name": "جعفرآباد",
+            "latitude": 34.7833,
+            "longitude": 47.3167
+        },
+        {
+            "name": "گودین",
+            "latitude": 34.5167,
+            "longitude": 47.9667
+        },
+        {
+            "name": "فش",
+            "latitude": 34.6667,
+            "longitude": 47.7833
+        },
+        {
+            "name": "قلعه شیان",
+            "latitude": 34.6667,
+            "longitude": 46.5667
+        },
+        {
+            "name": "بانوره",
+            "latitude": 35.0000,
+            "longitude": 46.3833
+        },
+        {
+            "name": "تازه آباد",
+            "latitude": 34.7333,
+            "longitude": 46.1500
+        },
+        {
+            "name": "شروینه",
+            "latitude": 34.8167,
+            "longitude": 46.5167
+        }
+    ],
+    "کهگیلویه و بویراحمد": [
+        {
+            "name": "یاسوج",
+            "latitude": 30.6684,
+            "longitude": 51.5880
+        },
+        {
+            "name": "دهدشت",
+            "latitude": 30.7949,
+            "longitude": 50.5646
+        },
+        {
+            "name": "دوگنبدان",
+            "latitude": 30.3586,
+            "longitude": 50.7981
+        },
+        {
+            "name": "سی سخت",
+            "latitude": 30.8639,
+            "longitude": 51.4562
+        },
+        {
+            "name": "لیکک",
+            "latitude": 30.8948,
+            "longitude": 50.0970
+        },
+        {
+            "name": "مادوان",
+            "latitude": 30.71993,
+            "longitude": 51.55259
+        },
+        {
+            "name": "چرام",
+            "latitude": 30.7469,
+            "longitude": 50.7457
+        },
+        {
+            "name": "لنده",
+            "latitude": 30.9790,
+            "longitude": 50.4240
+        },
+        {
+            "name": "باشت",
+            "latitude": 30.3610,
+            "longitude": 51.1600
+        },
+        {
+            "name": "مارگون",
+            "latitude": 30.9833,
+            "longitude": 51.0833
+        },
+        {
+            "name": "پاتاوه",
+            "latitude": 30.9560,
+            "longitude": 51.4167
+        },
+        {
+            "name": "چیتاب",
+            "latitude": 30.7833,
+            "longitude": 51.3167
+        },
+        {
+            "name": "سوق",
+            "latitude": 30.8667,
+            "longitude": 50.4667
+        },
+        {
+            "name": "قلعه رئیسی",
+            "latitude": 31.0167,
+            "longitude": 50.4333
+        },
+        {
+            "name": "دیشموک",
+            "latitude": 31.1667,
+            "longitude": 50.3833
+        },
+        {
+            "name": "ممبی",
+            "latitude": 30.9667,
+            "longitude": 50.1167
+        },
+        {
+            "name": "سرآسیاب یوسفی",
+            "latitude": 30.8667,
+            "longitude": 50.6667
+        },
+        {
+            "name": "گراب سفلی",
+            "latitude": 30.3167,
+            "longitude": 51.1667
+        },
+        {
+            "name": "بوستان",
+            "latitude": 30.3833,
+            "longitude": 51.1833
+        },
+        {
+            "name": "امامزاده جعفر",
+            "latitude": 30.3167,
+            "longitude": 50.8333
+        }
+    ],
+    "گلستان": [
+        {
+            "name": "گرگان",
+            "latitude": 36.8386,
+            "longitude": 54.4347
+        },
+        {
+            "name": "گنبدکاووس",
+            "latitude": 37.2500,
+            "longitude": 55.1672
+        },
+        {
+            "name": "علی آباد",
+            "latitude": 36.9083,
+            "longitude": 54.8631
+        },
+        {
+            "name": "کردکوی",
+            "latitude": 36.7939,
+            "longitude": 54.1121
+        },
+        {
+            "name": "بندرترکمن",
+            "latitude": 36.9017,
+            "longitude": 54.0707
+        },
+        {
+            "name": "آق قلا",
+            "latitude": 37.0139,
+            "longitude": 54.4550
+        },
+        {
+            "name": "رامیان",
+            "latitude": 37.0167,
+            "longitude": 55.1417
+        },
+        {
+            "name": "مینودشت",
+            "latitude": 37.1500,
+            "longitude": 55.3667
+        },
+        {
+            "name": "کلاله",
+            "latitude": 37.3808,
+            "longitude": 55.4916
+        },
+        {
+            "name": "آزادشهر",
+            "latitude": 37.0870,
+            "longitude": 55.1740
+        },
+        {
+            "name": "گمیشان",
+            "latitude": 37.0667,
+            "longitude": 54.0833
+        },
+        {
+            "name": "مراوه تپه",
+            "latitude": 37.9000,
+            "longitude": 55.9500
+        },
+        {
+            "name": "گالیکش",
+            "latitude": 37.2667,
+            "longitude": 55.4333
+        },
+        {
+            "name": "بندرگز",
+            "latitude": 36.7747,
+            "longitude": 53.9472
+        },
+        {
+            "name": "نوکنده",
+            "latitude": 36.6500,
+            "longitude": 53.9167
+        },
+        {
+            "name": "سرخنکلاته",
+            "latitude": 36.8833,
+            "longitude": 54.5667
+        },
+        {
+            "name": "انبارآلوم",
+            "latitude": 37.1333,
+            "longitude": 54.6167
+        },
+        {
+            "name": "فاضل آباد",
+            "latitude": 36.9000,
+            "longitude": 54.7500
+        },
+        {
+            "name": "جلین",
+            "latitude": 36.8667,
+            "longitude": 54.4167
+        },
+        {
+            "name": "سیمین شهر",
+            "latitude": 37.0167,
+            "longitude": 54.1833
+        },
+        {
+            "name": "اینچه برون",
+            "latitude": 37.4500,
+            "longitude": 54.7167
+        },
+        {
+            "name": "خان ببین",
+            "latitude": 37.0167,
+            "longitude": 55.0333
+        },
+        {
+            "name": "دلند",
+            "latitude": 37.0333,
+            "longitude": 55.0500
+        },
+        {
+            "name": "سنگدوین",
+            "latitude": 36.9833,
+            "longitude": 54.8333
+        },
+        {
+            "name": "نگین شهر",
+            "latitude": 37.1333,
+            "longitude": 55.1667
+        },
+        {
+            "name": "نوده خاندوز",
+            "latitude": 37.0833,
+            "longitude": 55.2667
+        },
+        {
+            "name": "تاتار علیا",
+            "latitude": 37.2333,
+            "longitude": 55.3833
+        },
+        {
+            "name": "فراغی",
+            "latitude": 37.3167,
+            "longitude": 55.6167
+        },
+        {
+            "name": "مزرعه",
+            "latitude": 36.9167,
+            "longitude": 54.6667
+        },
+        {
+            "name": "صفی آباد",
+            "latitude": 37.2000,
+            "longitude": 55.3167
+        },
+        {
+            "name": "دوزین",
+            "latitude": 37.1167,
+            "longitude": 55.4333
+        },
+        {
+            "name": "پیشکمر",
+            "latitude": 37.3833,
+            "longitude": 55.3833
+        },
+        {
+            "name": "قرق",
+            "latitude": 36.8333,
+            "longitude": 54.4167
+        },
+        {
+            "name": "چشمه ساران",
+            "latitude": 37.1167,
+            "longitude": 55.2000
+        }
+    ],
+    "گیلان": [
+        {
+            "name": "رشت",
+            "latitude": 37.2809,
+            "longitude": 49.5832
+        },
+        {
+            "name": "آستارا",
+            "latitude": 38.4291,
+            "longitude": 48.8720
+        },
+        {
+            "name": "آستانه اشرفیه",
+            "latitude": 37.2598,
+            "longitude": 49.9433
+        },
+        {
+            "name": "املش",
+            "latitude": 37.0915,
+            "longitude": 50.1865
+        },
+        {
+            "name": "رانکوه",
+            "latitude": 37.0418,
+            "longitude": 50.2333
+        },
+        {
+            "name": "بندر انزلی",
+            "latitude": 37.4732,
+            "longitude": 49.4579
+        },
+        {
+            "name": "تالش",
+            "latitude": 37.8000,
+            "longitude": 48.9069
+        },
+        {
+            "name": "رضوانشهر",
+            "latitude": 37.5500,
+            "longitude": 49.1370
+        },
+        {
+            "name": "رودبار",
+            "latitude": 36.8240,
+            "longitude": 49.4260
+        },
+        {
+            "name": "رودسر",
+            "latitude": 37.1370,
+            "longitude": 50.2880
+        },
+        {
+            "name": "سیاهکل",
+            "latitude": 37.1530,
+            "longitude": 49.8700
+        },
+        {
+            "name": "شفت",
+            "latitude": 37.0170,
+            "longitude": 49.2000
+        },
+        {
+            "name": "صومعه سرا",
+            "latitude": 37.3030,
+            "longitude": 49.3220
+        },
+        {
+            "name": "فومن",
+            "latitude": 37.2239,
+            "longitude": 49.3125
+        },
+        {
+            "name": "لاهیجان",
+            "latitude": 37.2070,
+            "longitude": 50.0039
+        },
+        {
+            "name": "لنگرود",
+            "latitude": 37.1970,
+            "longitude": 50.1535
+        },
+        {
+            "name": "ماسال",
+            "latitude": 37.3630,
+            "longitude": 49.1329
+        },
+        {
+            "name": "بندر کیاشهر",
+            "latitude": 37.4167,
+            "longitude": 49.9833
+        },
+        {
+            "name": "لوشان",
+            "latitude": 36.6333,
+            "longitude": 49.5167
+        },
+        {
+            "name": "منجیل",
+            "latitude": 36.7333,
+            "longitude": 49.4000
+        },
+        {
+            "name": "رستم آباد",
+            "latitude": 36.9000,
+            "longitude": 49.4833
+        },
+        {
+            "name": "توتکابن",
+            "latitude": 36.8833,
+            "longitude": 49.5833
+        },
+        {
+            "name": "جیرنده",
+            "latitude": 36.7000,
+            "longitude": 49.7833
+        },
+        {
+            "name": "بره سر",
+            "latitude": 36.7833,
+            "longitude": 49.6667
+        },
+        {
+            "name": "چابکسر",
+            "latitude": 37.0000,
+            "longitude": 50.5833
+        },
+        {
+            "name": "رحیم آباد",
+            "latitude": 37.0333,
+            "longitude": 50.3333
+        },
+        {
+            "name": "کلاچای",
+            "latitude": 37.0833,
+            "longitude": 50.4000
+        },
+        {
+            "name": "واجارگاه",
+            "latitude": 37.1167,
+            "longitude": 50.3833
+        },
+        {
+            "name": "دیلمان",
+            "latitude": 36.8833,
+            "longitude": 49.9167
+        },
+        {
+            "name": "چاف و چمخاله",
+            "latitude": 37.2333,
+            "longitude": 50.2667
+        },
+        {
+            "name": "اطاقور",
+            "latitude": 37.1167,
+            "longitude": 50.1167
+        },
+        {
+            "name": "کومله",
+            "latitude": 37.1667,
+            "longitude": 50.1833
+        },
+        {
+            "name": "شلمان",
+            "latitude": 37.1667,
+            "longitude": 50.2167
+        },
+        {
+            "name": "ماسوله",
+            "latitude": 37.1580,
+            "longitude": 48.9890
+        },
+        {
+            "name": "گوراب زرمیخ",
+            "latitude": 37.3000,
+            "longitude": 49.2167
+        },
+        {
+            "name": "مرجقل",
+            "latitude": 37.2667,
+            "longitude": 49.3833
+        },
+        {
+            "name": "پره سر",
+            "latitude": 37.6167,
+            "longitude": 49.0667
+        },
+        {
+            "name": "هشتپر",
+            "latitude": 37.8000,
+            "longitude": 48.9069
+        },
+        {
+            "name": "لیسار",
+            "latitude": 37.9667,
+            "longitude": 48.9167
+        },
+        {
+            "name": "اسالم",
+            "latitude": 37.7333,
+            "longitude": 48.9667
+        },
+        {
+            "name": "چوبر",
+            "latitude": 37.8833,
+            "longitude": 48.8833
+        },
+        {
+            "name": "حویق",
+            "latitude": 38.1500,
+            "longitude": 48.8833
+        },
+        {
+            "name": "لوندویل",
+            "latitude": 38.3167,
+            "longitude": 48.8667
+        },
+        {
+            "name": "کوچصفهان",
+            "latitude": 37.2833,
+            "longitude": 49.7667
+        },
+        {
+            "name": "لشت نشا",
+            "latitude": 37.3667,
+            "longitude": 49.8667
+        },
+        {
+            "name": "خشکبیجار",
+            "latitude": 37.3833,
+            "longitude": 49.7667
+        },
+        {
+            "name": "سنگر",
+            "latitude": 37.1833,
+            "longitude": 49.6833
+        },
+        {
+            "name": "خمام",
+            "latitude": 37.3833,
+            "longitude": 49.6667
+        },
+        {
+            "name": "بازار جمعه",
+            "latitude": 37.3667,
+            "longitude": 49.1333
+        },
+        {
+            "name": "شفت",
+            "latitude": 37.0170,
+            "longitude": 49.2000
+        },
+        {
+            "name": "احمدسرگوراب",
+            "latitude": 37.1333,
+            "longitude": 49.3667
+        },
+        {
+            "name": "گوراب زرمیخ",
+            "latitude": 37.3000,
+            "longitude": 49.2167
+        },
+        {
+            "name": "لولمان",
+            "latitude": 37.2667,
+            "longitude": 49.8167
+        }
+    ],
+    "لرستان": [
+        {
+            "name": "خرم آباد",
+            "latitude": 33.4878,
+            "longitude": 48.3558
+        },
+        {
+            "name": "بروجرد",
+            "latitude": 33.8973,
+            "longitude": 48.7516
+        },
+        {
+            "name": "دورود",
+            "latitude": 33.4970,
+            "longitude": 49.0578
+        },
+        {
+            "name": "معمولان",
+            "latitude": 33.37981,
+            "longitude": 47.96786
+        },
+        {
+            "name": "کوهنانی",
+            "latitude": 33.403,
+            "longitude": 47.410
+        },
+        {
+            "name": "الیگودرز",
+            "latitude": 33.4006,
+            "longitude": 49.6949
+        },
+        {
+            "name": "کوهدشت",
+            "latitude": 33.5350,
+            "longitude": 47.6061
+        },
+        {
+            "name": "نورآباد",
+            "latitude": 34.0734,
+            "longitude": 47.9725
+        },
+        {
+            "name": "الشتر",
+            "latitude": 33.8630,
+            "longitude": 48.2620
+        },
+        {
+            "name": "پلدختر",
+            "latitude": 33.1536,
+            "longitude": 47.7130
+        },
+        {
+            "name": "ازنا",
+            "latitude": 33.6095,
+            "longitude": 49.4550
+        },
+        {
+            "name": "رومشکان",
+            "latitude": 33.3167,
+            "longitude": 47.5167
+        },
+        {
+            "name": "چگنی",
+            "latitude": 33.5667,
+            "longitude": 47.7833
+        },
+        {
+            "name": "مومن آباد",
+            "latitude": 33.5667,
+            "longitude": 49.6167
+        },
+        {
+            "name": "شول آباد",
+            "latitude": 33.3167,
+            "longitude": 49.8167
+        },
+        {
+            "name": "کونانی",
+            "latitude": 33.3833,
+            "longitude": 47.3333
+        },
+        {
+            "name": "گراب",
+            "latitude": 33.4500,
+            "longitude": 47.3167
+        },
+        {
+            "name": "درب گنبد",
+            "latitude": 33.6833,
+            "longitude": 47.6167
+        },
+        {
+            "name": "ویسیان",
+            "latitude": 33.4833,
+            "longitude": 48.0333
+        },
+        {
+            "name": "چقابل",
+            "latitude": 33.2833,
+            "longitude": 47.7167
+        },
+        {
+            "name": "سپیددشت",
+            "latitude": 33.2167,
+            "longitude": 48.8833
+        },
+        {
+            "name": "هفت چشمه",
+            "latitude": 33.3333,
+            "longitude": 47.6667
+        },
+        {
+            "name": "سراب دوره",
+            "latitude": 33.5667,
+            "longitude": 47.9833
+        },
+        {
+            "name": "زاغه",
+            "latitude": 33.5000,
+            "longitude": 48.6667
+        },
+        {
+            "name": "چالانچولان",
+            "latitude": 33.6667,
+            "longitude": 48.9167
+        },
+        {
+            "name": "بیرانشهر",
+            "latitude": 33.6667,
+            "longitude": 48.5667
+        },
+        {
+            "name": "اشترینان",
+            "latitude": 34.0167,
+            "longitude": 48.6667
+        },
+        {
+            "name": "فیروزآباد",
+            "latitude": 33.9000,
+            "longitude": 48.1167
+        },
+        {
+            "name": "سیاه گوش",
+            "latitude": 33.3167,
+            "longitude": 49.6667
+        },
+        {
+            "name": "چم پلک",
+            "latitude": 33.3167,
+            "longitude": 49.3167
+        },
+        {
+            "name": "بیشه",
+            "latitude": 33.3167,
+            "longitude": 49.0333
+        },
+        {
+            "name": "کاغه",
+            "latitude": 33.7167,
+            "longitude": 48.3167
+        },
+        {
+            "name": "مرکز میانرودان",
+            "latitude": 33.3833,
+            "longitude": 47.4333
+        },
+        {
+            "name": "طراز ناهید",
+            "latitude": 33.3167,
+            "longitude": 47.9167
+        },
+        {
+            "name": "حیات الغیب",
+            "latitude": 33.3833,
+            "longitude": 47.6667
+        }
+    ],
+    "مازندران": [
+        {
+            "name": "ساری",
+            "latitude": 36.5633,
+            "longitude": 53.0601
+        },
+        {
+            "name": "آمل",
+            "latitude": 36.4696,
+            "longitude": 52.3507
+        },
+        {
+            "name": "بابل",
+            "latitude": 36.5513,
+            "longitude": 52.6789
+        },
+        {
+            "name": "قائم شهر",
+            "latitude": 36.4631,
+            "longitude": 52.8601
+        },
+        {
+            "name": "بهشهر",
+            "latitude": 36.6923,
+            "longitude": 53.5526
+        },
+        {
+            "name": "تنکابن",
+            "latitude": 36.8163,
+            "longitude": 50.8738
+        },
+        {
+            "name": "جویبار",
+            "latitude": 36.6412,
+            "longitude": 52.9124
+        },
+        {
+            "name": "چالوس",
+            "latitude": 36.6570,
+            "longitude": 51.4204
+        },
+        {
+            "name": "رامسر",
+            "latitude": 36.9030,
+            "longitude": 50.6583
+        },
+        {
+            "name": "سوادکوه",
+            "latitude": 36.2333,
+            "longitude": 52.8833
+        },
+        {
+            "name": "محمودآباد",
+            "latitude": 36.6319,
+            "longitude": 52.2629
+        },
+        {
+            "name": "نکا",
+            "latitude": 36.6508,
+            "longitude": 53.2990
+        },
+        {
+            "name": "نور",
+            "latitude": 36.5732,
+            "longitude": 52.0136
+        },
+        {
+            "name": "نوشهر",
+            "latitude": 36.6485,
+            "longitude": 51.4962
+        },
+        {
+            "name": "فریدون کنار",
+            "latitude": 36.6864,
+            "longitude": 52.5226
+        },
+        {
+            "name": "گلوگاه",
+            "latitude": 36.7272,
+            "longitude": 53.8090
+        },
+        {
+            "name": "بابلسر",
+            "latitude": 36.7025,
+            "longitude": 52.6576
+        },
+        {
+            "name": "آلاشت",
+            "latitude": 36.0667,
+            "longitude": 52.8333
+        },
+        {
+            "name": "عباس آباد",
+            "latitude": 36.7278,
+            "longitude": 51.1057
+        },
+        {
+            "name": "کلاردشت",
+            "latitude": 36.6833,
+            "longitude": 51.1569
+        },
+        {
+            "name": "میاندورود",
+            "latitude": 36.5833,
+            "longitude": 53.2333
+        },
+        {
+            "name": "سوادکوه شمالی",
+            "latitude": 36.3167,
+            "longitude": 52.9167
+        },
+        {
+            "name": "شیرگاه",
+            "latitude": 36.3000,
+            "longitude": 52.8833
+        },
+        {
+            "name": "زیراب",
+            "latitude": 36.1833,
+            "longitude": 52.9667
+        },
+        {
+            "name": "پل سفید",
+            "latitude": 36.1167,
+            "longitude": 53.0667
+        },
+        {
+            "name": "کیاسر",
+            "latitude": 36.2333,
+            "longitude": 53.5333
+        },
+        {
+            "name": "نکا",
+            "latitude": 36.6508,
+            "longitude": 53.2990
+        },
+        {
+            "name": "رستمکلا",
+            "latitude": 36.6833,
+            "longitude": 53.4333
+        },
+        {
+            "name": "خلیل شهر",
+            "latitude": 36.7000,
+            "longitude": 53.6500
+        },
+        {
+            "name": "زرگرمحله",
+            "latitude": 36.5167,
+            "longitude": 52.7833
+        },
+        {
+            "name": "امیرکلا",
+            "latitude": 36.6000,
+            "longitude": 52.6667
+        },
+        {
+            "name": "گتاب",
+            "latitude": 36.4333,
+            "longitude": 52.6667
+        },
+        {
+            "name": "مرزیکلا",
+            "latitude": 36.4667,
+            "longitude": 52.6833
+        },
+        {
+            "name": "رینه",
+            "latitude": 35.8833,
+            "longitude": 52.1667
+        },
+        {
+            "name": "گزنک",
+            "latitude": 35.9000,
+            "longitude": 52.2167
+        },
+        {
+            "name": "سلمان شهر",
+            "latitude": 36.7000,
+            "longitude": 51.2000
+        },
+        {
+            "name": "کلارآباد",
+            "latitude": 36.7000,
+            "longitude": 51.2500
+        },
+        {
+            "name": "هچیرود",
+            "latitude": 36.6833,
+            "longitude": 51.3333
+        },
+        {
+            "name": "مرزن آباد",
+            "latitude": 36.4500,
+            "longitude": 51.3167
+        },
+        {
+            "name": "نشتارود",
+            "latitude": 36.7500,
+            "longitude": 51.0333
+        },
+        {
+            "name": "شیرود",
+            "latitude": 36.8333,
+            "longitude": 50.8167
+        },
+        {
+            "name": "کتالم و سادات شهر",
+            "latitude": 36.8833,
+            "longitude": 50.7000
+        },
+        {
+            "name": "خرما",
+            "latitude": 36.7833,
+            "longitude": 50.9667
+        },
+        {
+            "name": "سرخرود",
+            "latitude": 36.6667,
+            "longitude": 52.4333
+        },
+        {
+            "name": "ایزدشهر",
+            "latitude": 36.6000,
+            "longitude": 52.1333
+        },
+        {
+            "name": "چمستان",
+            "latitude": 36.4833,
+            "longitude": 52.1167
+        },
+        {
+            "name": "رویان",
+            "latitude": 36.5667,
+            "longitude": 51.9667
+        },
+        {
+            "name": "بلده",
+            "latitude": 36.2000,
+            "longitude": 51.8167
+        },
+        {
+            "name": "کجور",
+            "latitude": 36.3833,
+            "longitude": 51.6667
+        },
+        {
+            "name": "پول",
+            "latitude": 36.4333,
+            "longitude": 51.6667
+        },
+        {
+            "name": "بهنمیر",
+            "latitude": 36.6667,
+            "longitude": 52.7667
+        },
+        {
+            "name": "هادی شهر",
+            "latitude": 36.6833,
+            "longitude": 52.6167
+        },
+        {
+            "name": "کیاکلا",
+            "latitude": 36.5833,
+            "longitude": 52.8167
+        },
+        {
+            "name": "سورک",
+            "latitude": 36.6000,
+            "longitude": 53.2167
+        },
+        {
+            "name": "دابودشت",
+            "latitude": 36.4833,
+            "longitude": 52.4667
+        },
+        {
+            "name": "پایین هولار",
+            "latitude": 36.6167,
+            "longitude": 53.0667
+        },
+        {
+            "name": "فریم",
+            "latitude": 36.1667,
+            "longitude": 53.3167
+        },
+        {
+            "name": "معلم کلا",
+            "latitude": 36.5833,
+            "longitude": 52.6667
+        },
+        {
+            "name": "گرجی محله",
+            "latitude": 36.6667,
+            "longitude": 53.3167
+        },
+        {
+            "name": "تیر تاش",
+            "latitude": 36.7333,
+            "longitude": 53.8667
+        },
+        {
+            "name": "گهرباران",
+            "latitude": 36.6167,
+            "longitude": 53.1333
+        },
+        {
+            "name": "فرح آباد",
+            "latitude": 36.7833,
+            "longitude": 53.0500
+        }
+    ],
+    "مرکزی": [
+        {
+            "name": "اراک",
+            "latitude": 34.0917,
+            "longitude": 49.6892
+        },
+        {
+            "name": "ساوه",
+            "latitude": 35.0213,
+            "longitude": 50.3566
+        },
+        {
+            "name": "خمین",
+            "latitude": 33.6390,
+            "longitude": 50.0787
+        },
+        {
+            "name": "محلات",
+            "latitude": 33.9085,
+            "longitude": 50.4550
+        },
+        {
+            "name": "دلیجان",
+            "latitude": 33.9905,
+            "longitude": 50.6838
+        },
+        {
+            "name": "شازند",
+            "latitude": 33.9275,
+            "longitude": 49.4116
+        },
+        {
+            "name": "تفرش",
+            "latitude": 34.6919,
+            "longitude": 50.0130
+        },
+        {
+            "name": "زرندیه",
+            "latitude": 35.3167,
+            "longitude": 50.5000
+        },
+        {
+            "name": "کمیجان",
+            "latitude": 34.7190,
+            "longitude": 49.3268
+        },
+        {
+            "name": "خنداب",
+            "latitude": 34.3833,
+            "longitude": 49.1833
+        },
+        {
+            "name": "آشتیان",
+            "latitude": 34.5219,
+            "longitude": 50.0061
+        },
+        {
+            "name": "فراهان",
+            "latitude": 34.8333,
+            "longitude": 49.6833
+        },
+        {
+            "name": "غرق آباد",
+            "latitude": 35.1167,
+            "longitude": 50.3167
+        },
+        {
+            "name": "نوبران",
+            "latitude": 35.1333,
+            "longitude": 50.1167
+        },
+        {
+            "name": "مامونیه",
+            "latitude": 35.3167,
+            "longitude": 50.5167
+        },
+        {
+            "name": "پرندک",
+            "latitude": 35.3667,
+            "longitude": 50.6833
+        },
+        {
+            "name": "خشکرود",
+            "latitude": 35.3833,
+            "longitude": 50.5667
+        },
+        {
+            "name": "رازقان",
+            "latitude": 35.3167,
+            "longitude": 50.6167
+        },
+        {
+            "name": "آوه",
+            "latitude": 34.7667,
+            "longitude": 50.3167
+        },
+        {
+            "name": "زاویه",
+            "latitude": 35.3833,
+            "longitude": 50.5167
+        },
+        {
+            "name": "نراق",
+            "latitude": 34.0167,
+            "longitude": 50.8333
+        },
+        {
+            "name": "جاورسیان",
+            "latitude": 34.3167,
+            "longitude": 49.3167
+        },
+        {
+            "name": "کارچان",
+            "latitude": 34.0667,
+            "longitude": 49.8833
+        },
+        {
+            "name": "داودآباد",
+            "latitude": 34.2833,
+            "longitude": 49.8667
+        },
+        {
+            "name": "هندودر",
+            "latitude": 33.7667,
+            "longitude": 49.4167
+        },
+        {
+            "name": "استوه",
+            "latitude": 34.6833,
+            "longitude": 50.1167
+        },
+        {
+            "name": "فرمهین",
+            "latitude": 34.8333,
+            "longitude": 49.6833
+        },
+        {
+            "name": "میلاجرد",
+            "latitude": 34.6167,
+            "longitude": 49.2167
+        },
+        {
+            "name": "قورچی باشی",
+            "latitude": 33.6667,
+            "longitude": 50.1167
+        },
+        {
+            "name": "نیمور",
+            "latitude": 33.8833,
+            "longitude": 50.5667
+        },
+        {
+            "name": "ساروق",
+            "latitude": 34.4167,
+            "longitude": 49.5167
+        },
+        {
+            "name": "توره",
+            "latitude": 33.9167,
+            "longitude": 49.3167
+        },
+        {
+            "name": "شهباز",
+            "latitude": 33.9833,
+            "longitude": 49.3833
+        },
+        {
+            "name": "مهاجران",
+            "latitude": 34.0333,
+            "longitude": 49.6167
+        }
+    ],
+    "هرمزگان": [
+        {
+            "name": "بندرعباس",
+            "latitude": 27.1832,
+            "longitude": 56.2666
+        },
+        {
+            "name": "میناب",
+            "latitude": 27.1310,
+            "longitude": 57.0870
+        },
+        {
+            "name": "قشم",
+            "latitude": 26.9581,
+            "longitude": 56.2716
+        },
+        {
+            "name": "بندر لنگه",
+            "latitude": 26.5579,
+            "longitude": 54.8807
+        },
+        {
+            "name": "جاسک",
+            "latitude": 25.6439,
+            "longitude": 57.7745
+        },
+        {
+            "name": "رودان",
+            "latitude": 27.4419,
+            "longitude": 57.1924
+        },
+        {
+            "name": "بستک",
+            "latitude": 27.1991,
+            "longitude": 54.3668
+        },
+        {
+            "name": "حاجی آباد",
+            "latitude": 28.3091,
+            "longitude": 55.9017
+        },
+        {
+            "name": "ابوموسی",
+            "latitude": 25.8797,
+            "longitude": 55.0328
+        },
+        {
+            "name": "پارسیان",
+            "latitude": 27.2070,
+            "longitude": 53.0370
+        },
+        {
+            "name": "بندر خمیر",
+            "latitude": 26.9521,
+            "longitude": 55.5880
+        },
+        {
+            "name": "بشاگرد",
+            "latitude": 26.5833,
+            "longitude": 57.9167
+        },
+        {
+            "name": "سیریک",
+            "latitude": 26.5167,
+            "longitude": 57.0833
+        },
+        {
+            "name": "کیش",
+            "latitude": 26.5578,
+            "longitude": 54.0194
+        },
+        {
+            "name": "فین",
+            "latitude": 27.6333,
+            "longitude": 55.9000
+        },
+        {
+            "name": "تخت",
+            "latitude": 27.4833,
+            "longitude": 56.6333
+        },
+        {
+            "name": "هرمز",
+            "latitude": 27.0950,
+            "longitude": 56.4539
+        },
+        {
+            "name": "درگهان",
+            "latitude": 26.9667,
+            "longitude": 56.0667
+        },
+        {
+            "name": "سوزا",
+            "latitude": 26.7833,
+            "longitude": 56.0667
+        },
+        {
+            "name": "لافت",
+            "latitude": 26.8833,
+            "longitude": 55.7667
+        },
+        {
+            "name": "کنگ",
+            "latitude": 26.6000,
+            "longitude": 54.9333
+        },
+        {
+            "name": "چارک",
+            "latitude": 26.7333,
+            "longitude": 54.2833
+        },
+        {
+            "name": "لمزان",
+            "latitude": 26.5667,
+            "longitude": 54.8333
+        },
+        {
+            "name": "جناح",
+            "latitude": 27.0167,
+            "longitude": 54.2833
+        },
+        {
+            "name": "گوهران",
+            "latitude": 27.2500,
+            "longitude": 54.4167
+        },
+        {
+            "name": "دهبارز",
+            "latitude": 27.4667,
+            "longitude": 57.2167
+        },
+        {
+            "name": "زیارتعلی",
+            "latitude": 27.7333,
+            "longitude": 57.3167
+        },
+        {
+            "name": "بیکاه",
+            "latitude": 27.3833,
+            "longitude": 57.0833
+        },
+        {
+            "name": "سندرک",
+            "latitude": 26.8333,
+            "longitude": 57.4167
+        },
+        {
+            "name": "هشتبندی",
+            "latitude": 27.1833,
+            "longitude": 57.4333
+        },
+        {
+            "name": "سرگز",
+            "latitude": 27.3167,
+            "longitude": 57.3167
+        },
+        {
+            "name": "فارغان",
+            "latitude": 28.1167,
+            "longitude": 56.1667
+        },
+        {
+            "name": "رویدر",
+            "latitude": 27.4667,
+            "longitude": 55.4167
+        },
+        {
+            "name": "پل",
+            "latitude": 27.1167,
+            "longitude": 55.6667
+        },
+        {
+            "name": "پهل",
+            "latitude": 26.9167,
+            "longitude": 55.6667
+        },
+        {
+            "name": "گروک",
+            "latitude": 26.5833,
+            "longitude": 57.0833
+        },
+        {
+            "name": "کوهستک",
+            "latitude": 26.7833,
+            "longitude": 57.1167
+        },
+        {
+            "name": "سردشت",
+            "latitude": 26.4667,
+            "longitude": 57.9167
+        },
+        {
+            "name": "گچین",
+            "latitude": 27.1167,
+            "longitude": 56.0833
+        },
+        {
+            "name": "دشتی",
+            "latitude": 27.1833,
+            "longitude": 53.0667
+        },
+        {
+            "name": "کوشکنار",
+            "latitude": 27.2333,
+            "longitude": 52.9167
+        },
+        {
+            "name": "تازیان پایین",
+            "latitude": 27.3167,
+            "longitude": 56.1667
+        },
+        {
+            "name": "قلعه قاضی",
+            "latitude": 27.4333,
+            "longitude": 56.5667
+        },
+        {
+            "name": "تیرور",
+            "latitude": 27.3167,
+            "longitude": 57.1167
+        },
+        {
+            "name": "مغویه",
+            "latitude": 27.3167,
+            "longitude": 56.3167
+        }
+    ],
+    "همدان": [
+        {
+            "name": "همدان",
+            "latitude": 34.7982,
+            "longitude": 48.5146
+        },
+        {
+            "name": "ملایر",
+            "latitude": 34.2969,
+            "longitude": 48.8236
+        },
+        {
+            "name": "نهاوند",
+            "latitude": 34.1885,
+            "longitude": 48.3760
+        },
+        {
+            "name": "تویسرکان",
+            "latitude": 34.5480,
+            "longitude": 48.4469
+        },
+        {
+            "name": "اسدآباد",
+            "latitude": 34.7824,
+            "longitude": 48.1185
+        },
+        {
+            "name": "بهار",
+            "latitude": 34.9072,
+            "longitude": 48.4414
+        },
+        {
+            "name": "کبودرآهنگ",
+            "latitude": 35.2083,
+            "longitude": 48.7239
+        },
+        {
+            "name": "رزن",
+            "latitude": 35.5667,
+            "longitude": 48.9833
+        },
+        {
+            "name": "فامنین",
+            "latitude": 35.1167,
+            "longitude": 48.9667
+        },
+        {
+            "name": "مریانج",
+            "latitude": 34.8333,
+            "longitude": 48.4667
+        },
+        {
+            "name": "جورقان",
+            "latitude": 34.8833,
+            "longitude": 48.4167
+        },
+        {
+            "name": "ازندریان",
+            "latitude": 34.5000,
+            "longitude": 48.6833
+        },
+        {
+            "name": "قهاوند",
+            "latitude": 34.8667,
+            "longitude": 49.0000
+        },
+        {
+            "name": "لالجین",
+            "latitude": 34.9667,
+            "longitude": 48.4833
+        },
+        {
+            "name": "مهاجران",
+            "latitude": 34.9167,
+            "longitude": 48.4667
+        },
+        {
+            "name": "صالح آباد",
+            "latitude": 34.9167,
+            "longitude": 48.3333
+        },
+        {
+            "name": "سامن",
+            "latitude": 34.2000,
+            "longitude": 48.7000
+        },
+        {
+            "name": "جوکار",
+            "latitude": 34.4333,
+            "longitude": 48.6833
+        },
+        {
+            "name": "زرین دشت",
+            "latitude": 34.4000,
+            "longitude": 48.5667
+        },
+        {
+            "name": "ازنا",
+            "latitude": 34.3167,
+            "longitude": 48.6667
+        },
+        {
+            "name": "شیرین سو",
+            "latitude": 35.4833,
+            "longitude": 48.4500
+        },
+        {
+            "name": "گل تپه",
+            "latitude": 35.3167,
+            "longitude": 48.3167
+        },
+        {
+            "name": "گیان",
+            "latitude": 34.1667,
+            "longitude": 48.3167
+        },
+        {
+            "name": "فیروزان",
+            "latitude": 34.3167,
+            "longitude": 48.4500
+        },
+        {
+            "name": "جهان آباد",
+            "latitude": 34.2000,
+            "longitude": 48.3167
+        },
+        {
+            "name": "برزول",
+            "latitude": 34.2167,
+            "longitude": 48.2667
+        },
+        {
+            "name": "آجین",
+            "latitude": 34.5333,
+            "longitude": 48.3167
+        },
+        {
+            "name": "دمق",
+            "latitude": 35.4500,
+            "longitude": 48.9833
+        },
+        {
+            "name": "قروه درجزین",
+            "latitude": 35.6167,
+            "longitude": 49.1000
+        },
+        {
+            "name": "فرسفج",
+            "latitude": 34.5833,
+            "longitude": 48.3833
+        },
+        {
+            "name": "سرکان",
+            "latitude": 34.6000,
+            "longitude": 48.4500
+        },
+        {
+            "name": "حسین آباد",
+            "latitude": 35.1667,
+            "longitude": 48.8167
+        },
+        {
+            "name": "کوریجان",
+            "latitude": 35.3167,
+            "longitude": 48.6667
+        }
+    ],
+    "یزد": [
+        {
+            "name": "یزد",
+            "latitude": 31.8974,
+            "longitude": 54.3678
+        },
+        {
+            "name": "میبد",
+            "latitude": 32.2500,
+            "longitude": 54.0167
+        },
+        {
+            "name": "اردکان",
+            "latitude": 32.3100,
+            "longitude": 54.0175
+        },
+        {
+            "name": "بافق",
+            "latitude": 31.6035,
+            "longitude": 55.4025
+        },
+        {
+            "name": "تفت",
+            "latitude": 31.7438,
+            "longitude": 54.2023
+        },
+        {
+            "name": "ابرکوه",
+            "latitude": 31.1290,
+            "longitude": 53.2820
+        },
+        {
+            "name": "مهریز",
+            "latitude": 31.5917,
+            "longitude": 54.4318
+        },
+        {
+            "name": "اشکذر",
+            "latitude": 32.0000,
+            "longitude": 54.2167
+        },
+        {
+            "name": "خاتم",
+            "latitude": 30.7833,
+            "longitude": 54.3333
+        },
+        {
+            "name": "بهاباد",
+            "latitude": 31.8709,
+            "longitude": 56.0240
+        },
+        {
+            "name": "مروست",
+            "latitude": 30.4667,
+            "longitude": 54.0167
+        },
+        {
+            "name": "هرات",
+            "latitude": 30.0539,
+            "longitude": 54.3730
+        },
+        {
+            "name": "زارچ",
+            "latitude": 31.9833,
+            "longitude": 54.2333
+        },
+        {
+            "name": "شاهدیه",
+            "latitude": 31.9333,
+            "longitude": 54.2833
+        },
+        {
+            "name": "حمیدیا",
+            "latitude": 31.8333,
+            "longitude": 54.3833
+        },
+        {
+            "name": "عقدا",
+            "latitude": 32.4333,
+            "longitude": 53.6333
+        },
+        {
+            "name": "احمدآباد",
+            "latitude": 32.3333,
+            "longitude": 53.9833
+        },
+        {
+            "name": "ندوشن",
+            "latitude": 32.0333,
+            "longitude": 53.5500
+        },
+        {
+            "name": "نیر",
+            "latitude": 31.4833,
+            "longitude": 54.1333
+        },
+        {
+            "name": "بفروئیه",
+            "latitude": 31.6167,
+            "longitude": 54.4667
+        },
+        {
+            "name": "پیشکوه",
+            "latitude": 31.6667,
+            "longitude": 54.3167
+        },
+        {
+            "name": "خضرآباد",
+            "latitude": 31.8667,
+            "longitude": 54.0167
+        },
+        {
+            "name": "مرزوق",
+            "latitude": 30.4667,
+            "longitude": 54.3167
+        },
+        {
+            "name": "محمدآباد",
+            "latitude": 31.5333,
+            "longitude": 54.3167
+        }
+    ]
+}
