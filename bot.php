@@ -6,12 +6,12 @@ include_once "Bootstrap/init.php";
 if (isset($text) && $type == "private" && $text == "/start") {
     $Tel->Send($chat_id, "سلام دوست من\nبا این ربات میتونی اوقات شرعی شهرها را مشاهده کنی.\n\nمثال : <code>اوقات تهران</code>");
 }
-elseif (isset($text) && preg_match('/اوقات\s+(.+)$/u', $text, $match)) {
+elseif (isset($text) && preg_match('/^اوقات\s+(.+)$/u', $text, $match)) {
     $cityName = $match[1];
     $selectCity = $City->getInfoCity($cityName);
     if (!$selectCity) {
         $data = getCity($cityName);
-        if (is_array($data)) {
+        if ($data['status']) {
             $keyboard = [
                 [
                     ['text' => "مشاهده در گوگل مپ", 'url' => $data["googlemap"]],
@@ -28,7 +28,7 @@ elseif (isset($text) && preg_match('/اوقات\s+(.+)$/u', $text, $match)) {
     $selectProvince = $Province->getName($selectCity['province']);
     [$lg, $lat, $province] = [$selectCity['longitude'], $selectCity['latitude'], $selectProvince['name']];
 
-    [$l, $d, $m, $F, $Y, $now] = [jdate('l'), jdate('d'), jdate('m'), jdate('F'), jdate('Y'), jdate('h:i:s', time())];
+    [$l, $d, $m, $F, $Y, $now] = [jdate('l'), jdate('d'), jdate('m'), jdate('F'), jdate('Y'), jdate('h:i:s')];
 
     $owghat = owghat($m, $d, $lg, $lat, 0, 0, 0);
     [$AzanSobh, $AzanZohr, $AzanMaqreb] = [$owghat['s'], $owghat['z'], $owghat['m']];
@@ -44,14 +44,14 @@ elseif (isset($text) && preg_match('/اوقات\s+(.+)$/u', $text, $match)) {
     // Azan Sobh
     $RemaningAzanSobh = RemaningAzanSobh($TimeAzanSobh, $lg, $lat);
     // list($hoursAS, $minutesAS, $secondsAS) = [$RemaningAzanSobh['hours'], $RemaningAzanSobh['minutes'], $RemaningAzanSobh['seconds']];
-    list($hoursAS, $minutesAS, $secondsAS) = [$RemaningAzanSobh['hours'], $RemaningAzanSobh['minutes']];
+    list($hoursAS, $minutesAS) = [$RemaningAzanSobh['hours'], $RemaningAzanSobh['minutes']];
 
     // Azan Maqreb
     $RemaningAzanMaqreb = RemaningAzanMaqreb($TimeAzanMaqreb, $lg, $lat);
-    list($hoursAM, $minutesAM, $secondsAM) = [$RemaningAzanMaqreb['hours'], $RemaningAzanMaqreb['minutes']];
+    list($hoursAM, $minutesAM) = [$RemaningAzanMaqreb['hours'], $RemaningAzanMaqreb['minutes']];
     // list($hoursAM, $minutesAM, $secondsAM) = [$RemaningAzanMaqreb['hours'], $RemaningAzanMaqreb['minutes'], $RemaningAzanMaqreb['seconds']];
 
-$Tel->Send($chat_id, "📆 $l $d $F $Y - ساعت $now\n🌏 شهر : $cityName\n┘ استان : $province\n\n🕰 اوقات شرعی\n┤ اذان صبح : {$AzanSobh}\n┤ اذان ظهر : {$AzanZohr}\n┘ اذان مغرب : {$AzanMaqreb}\n\n⏳ مانده تا سحر : {$hoursAS} ساعت {$minutesAS} دقیقه \n⌛️ مانده تا افطار : {$hoursAM} ساعت {$minutesAM} دقیقه");
+    $Tel->Send($chat_id, "📆 $l $d $F $Y - ساعت $now\n🌏 شهر : $cityName\n┘ استان : $province\n\n🕰 اوقات شرعی\n┤ اذان صبح : {$AzanSobh}\n┤ اذان ظهر : {$AzanZohr}\n┘ اذان مغرب : {$AzanMaqreb}\n\n⏳ مانده تا سحر : {$hoursAS} ساعت {$minutesAS} دقیقه \n⌛️ مانده تا افطار : {$hoursAM} ساعت {$minutesAM} دقیقه");
 
 }
 

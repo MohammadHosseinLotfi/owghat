@@ -16,10 +16,19 @@ function getCity($cityName) {
         return false;
     }
 
-    return [
-        "city" => $data[0]['display_name'],
-        "latitude" => $data[0]['lat'],
-        "longitude" => $data[0]['lon'],
-        "googlemap" => "https://www.google.com/maps/@{$data[0]['lat']},{$data[0]['lon']},13z"
-    ];
+    list($name, $lat, $lon) = [$data[0]['display_name'], $data[0]['lat'], $data[0]['lon']];
+
+    if (strpos($name, "ایران") !== false || strpos($name, "iran") !== false) {
+        return [
+            "status" => true,
+            "city" => $name,
+            "latitude" => $lat,
+            "longitude" => $lon,
+            "googlemap" => "https://www.google.com/maps/@{$lat},{$lon},13z"
+        ];
+    } else {
+        return [
+            "status" => false
+        ];
+    }
 }
